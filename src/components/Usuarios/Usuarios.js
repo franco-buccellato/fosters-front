@@ -118,23 +118,23 @@ const Usuarios = () => {
                         <Button variant="outline-success" onClick={() => agregarUsuario()}>Agregar Usuario</Button>
                     </Form>
                 </div>
-    
-                <div className="container-usuarios">
-                <Table striped="columns">
-                            <thead>
-                                <tr>
-                                    <th>Nombre</th>
-                                    <th>Contraseña</th>
-                                    <th>Descuento</th>
-                                    <th>Utilidad</th>
-                                    <th>Editar</th>
-                                    <th>Eliminar</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                {tablaDeUsuario}
-                            </tbody>
-                        </Table>
+                <div className="container-tabla-usuarios">
+                    <h1 className='titulo-tabla'>Listado de Usuarios</h1>
+                    <Table striped="columns">
+                        <thead>
+                            <tr>
+                                <th>Nombre</th>
+                                <th>Contraseña</th>
+                                <th>Descuento</th>
+                                <th>Utilidad</th>
+                                <th>Editar</th>
+                                <th>Eliminar</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {tablaDeUsuario}
+                        </tbody>
+                    </Table>
                 </div>
                 <Modal show={showOk} onHide={handleCloseOk}>
                     <Modal.Header closeButton>

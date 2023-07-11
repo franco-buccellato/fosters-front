@@ -4,6 +4,13 @@
     margin-top: 20vh;
 }
 
+.container-tabla-usuarios {
+    width: 40%;
+    margin: 20vh 30% 0 30%;
+    margin-top: 10vh;
+}
+
+
 .section-item-list-container {
     margin-left: 5%;
     margin-right: 5%;
@@ -136,6 +143,10 @@
     justify-content: center;
     align-items: center;
     width: 80%;
+}
+
+.titulo-tabla {
+    text-align: center;
 }
 
 @media (max-width: 1600px) {

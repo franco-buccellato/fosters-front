@@ -2,7 +2,7 @@ export const listaDeProductos = [
   {
     id: 10000,
     nombre: "ALTERNADOR AIRE  IVECO DAILY 70c17",
-    precio: 17561.313000000002,
+    precio: 19317.444300000003,
     rubro: "Acero",
     codigoFabrica: "F-552557",
     tipoModificacion: "A",
@@ -14,7 +14,7 @@ export const listaDeProductos = [
   {
     id: "10000-2",
     nombre: "ALTERNADOR AIRE  IVECO DAILY 70c17   ( NSK DOBLE)",
-    precio: 25087.612,
+    precio: 27596.3732,
     rubro: "Acero",
     codigoFabrica: "F-552557",
     tipoModificacion: "A",
@@ -26,7 +26,7 @@ export const listaDeProductos = [
   {
     id: 10001,
     nombre: "ALTERNADOR AIRE   8X65X26 C/BULON 2 RODAMIENTOS",
-    precio: 7579.495000000001,
+    precio: 8337.444500000001,
     rubro: "Nylon",
     codigoFabrica: "VKM-32260",
     tipoModificacion: "A",
@@ -45,7 +45,7 @@ export const listaDeProductos = [
   {
     id: 10004,
     nombre: "ALTERNADOR AIRE    IVECO STRALIS   17X74X46",
-    precio: 18567.45,
+    precio: 20424.195000000003,
     rubro: "Acero",
     codigoFabrica: 504046191,
     tipoModificacion: "A",
@@ -57,7 +57,7 @@ export const listaDeProductos = [
   {
     id: 10003,
     nombre: "POLY V   MOTOR 1.8   8X56X24",
-    precio: 5740.119000000001,
+    precio: 6314.130900000001,
     rubro: "Acero",
     codigoFabrica: "8X56X24",
     tipoModificacion: "A",
@@ -69,7 +69,7 @@ export const listaDeProductos = [
   {
     id: 10006,
     nombre: "ALTERNADOR AIRE   IVECO DAILY  BUJE 8X70X22",
-    precio: 6401.505000000001,
+    precio: 7041.655500000002,
     rubro: "Nylon",
     codigoFabrica: 504084453,
     tipoModificacion: "A",
@@ -81,7 +81,7 @@ export const listaDeProductos = [
   {
     id: 10005,
     nombre: "ALTERNADOR AIRE  8X65X25/28 2 RODAMIENTOS",
-    precio: 11681.34,
+    precio: 12849.474000000002,
     rubro: "Nylon",
     codigoFabrica: "VKM-31002",
     tipoModificacion: "A",
@@ -93,7 +93,7 @@ export const listaDeProductos = [
   {
     id: 80300,
     nombre: "ALTERNADOR AIRE  10X70X22 C/ENG",
-    precio: 8007.2300000000005,
+    precio: 8807.953000000001,
     rubro: "Chapa",
     codigoFabrica: "VKM-60012",
     tipoModificacion: "",
@@ -105,7 +105,7 @@ export const listaDeProductos = [
   {
     id: 84000,
     nombre: "ALTERNADOR MOTOR 1.4 TDCI",
-    precio: 7815.852,
+    precio: 8597.4372,
     rubro: "Acero",
     codigoFabrica: "VKM-33060",
     tipoModificacion: "",
@@ -117,7 +117,7 @@ export const listaDeProductos = [
   {
     id: 84430,
     nombre: "ALTERNADOR MOTOR DIESEL 17X64X26",
-    precio: 4248.409000000001,
+    precio: 4673.249900000001,
     rubro: "Chapa",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -129,7 +129,7 @@ export const listaDeProductos = [
   {
     id: 84435,
     nombre: "AIRE ACONDICIONADO",
-    precio: 6270.110000000001,
+    precio: 6897.121000000001,
     rubro: "Nylon",
     codigoFabrica: "VKM-38212",
     tipoModificacion: "",
@@ -148,7 +148,7 @@ export const listaDeProductos = [
   {
     id: 84440,
     nombre: "DISTRIBUCION 1.7 TDCI 12X65X31.5",
-    precio: 11009.757000000001,
+    precio: 12110.732700000002,
     rubro: "Acero",
     codigoFabrica: "VKM-25150",
     tipoModificacion: "",
@@ -160,7 +160,7 @@ export const listaDeProductos = [
   {
     id: 84448,
     nombre: "DISTRIBUCION 1.6 16V 17X64X29",
-    precio: 4105.002,
+    precio: 4515.502200000001,
     rubro: "Nylon",
     codigoFabrica: "VKM-80000",
     tipoModificacion: "",
@@ -172,7 +172,7 @@ export const listaDeProductos = [
   {
     id: 84449,
     nombre: "DISTRIBUCION 1.6 16V 17X64X29",
-    precio: 4248.409000000001,
+    precio: 4673.249900000001,
     rubro: "Chapa",
     codigoFabrica: "VKM-80000",
     tipoModificacion: "",
@@ -184,7 +184,7 @@ export const listaDeProductos = [
   {
     id: 84500,
     nombre: "ALTERNADOR / AIRE ACIONDICIONADO 1.6 EMBUTIDA 17X70X25",
-    precio: 3650.9880000000003,
+    precio: 4016.0868000000005,
     rubro: "Chapa",
     codigoFabrica: "VKM-34034",
     tipoModificacion: "",
@@ -196,7 +196,7 @@ export const listaDeProductos = [
   {
     id: 84501,
     nombre: "ALTERNADOR AIRE ACCONDICIONADO 17X70X31",
-    precio: 4519.273000000001,
+    precio: 4971.200300000001,
     rubro: "Chapa",
     codigoFabrica: "",
     tipoModificacion: "M",
@@ -207,10 +207,10 @@ export const listaDeProductos = [
   },
   {
     id: 84520,
-    nombre: "ALTERNADOR POLY V 17X50X25",
-    precio: 6399.558,
+    nombre: "ALTERNADOR POLY V 17X50X25  Sin Buje",
+    precio: 7039.513800000001,
     rubro: "Acero",
-    codigoFabrica: "F-585129 REP",
+    codigoFabrica: "VKM-21338 ",
     tipoModificacion: "",
     marca: "Volkswagen",
     modelos: ["UP"],
@@ -220,7 +220,7 @@ export const listaDeProductos = [
   {
     id: 84595,
     nombre: "DISTRIBUCION 1.8 17X56X25/14",
-    precio: 5485.612,
+    precio: 6034.1732,
     rubro: "Acero",
     codigoFabrica: "VKM-04754",
     tipoModificacion: "",
@@ -232,7 +232,7 @@ export const listaDeProductos = [
   {
     id: 84600,
     nombre: "ALTERNADOR 1.8",
-    precio: 3445.9590000000003,
+    precio: 3790.5549000000005,
     rubro: "Chapa",
     codigoFabrica: "VKM-04752",
     tipoModificacion: "A",
@@ -244,7 +244,7 @@ export const listaDeProductos = [
   {
     id: "84600-2",
     nombre: "ALTERNADOR 1.8 MAS FINA 84600  ( 21,00MM PISADA )",
-    precio: 3445.9590000000003,
+    precio: 3790.5549000000005,
     rubro: "Chapa",
     codigoFabrica: "FINA",
     tipoModificacion: "A",
@@ -256,7 +256,7 @@ export const listaDeProductos = [
   {
     id: 84601,
     nombre: "ALTERNADOR 1.8",
-    precio: 4701.818,
+    precio: 5171.9998000000005,
     rubro: "Chapa",
     codigoFabrica: "VKM-04752",
     tipoModificacion: "",
@@ -268,7 +268,7 @@ export const listaDeProductos = [
   {
     id: 84602,
     nombre: "ALTERNADOR 1.8",
-    precio: 3101.494,
+    precio: 3411.6434000000004,
     rubro: "Chapa",
     codigoFabrica: "VKM-04752",
     tipoModificacion: "",
@@ -280,7 +280,7 @@ export const listaDeProductos = [
   {
     id: 84603,
     nombre: "AIRE ALTERNADOR  17X70X26",
-    precio: 3756.0050000000006,
+    precio: 4131.605500000001,
     rubro: "Chapa",
     codigoFabrica: 90500229,
     tipoModificacion: "",
@@ -292,7 +292,7 @@ export const listaDeProductos = [
   {
     id: 84604,
     nombre: "AIRE ALTERNADOR  17X70X26",
-    precio: 2208.7450000000003,
+    precio: 2429.6195000000007,
     rubro: "Nylon",
     codigoFabrica: "95WFA216",
     tipoModificacion: "A",
@@ -304,7 +304,7 @@ export const listaDeProductos = [
   {
     id: 84605,
     nombre: "ALTERNADOR AIRE  10X78X25  1.,3 MPI",
-    precio: 3319.7340000000004,
+    precio: 3651.7074000000007,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -316,7 +316,7 @@ export const listaDeProductos = [
   {
     id: 84606,
     nombre: "ALTERNADOR  MOTOR 2.5 17X76X21",
-    precio: 3126.5190000000002,
+    precio: 3439.1709000000005,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -328,7 +328,7 @@ export const listaDeProductos = [
   {
     id: 84610,
     nombre: "ALTERNADOR AIIRE MOTOR 1.9 ( 10X37X28)",
-    precio: 7964.880000000001,
+    precio: 8761.368000000002,
     rubro: "Acero",
     codigoFabrica: "VKM-33017",
     tipoModificacion: "",
@@ -340,7 +340,7 @@ export const listaDeProductos = [
   {
     id: 84611,
     nombre: "ACCESORIOS VW   SCIROCCO 17X58X20",
-    precio: 7297.246,
+    precio: 8026.970600000001,
     rubro: "Acero",
     codigoFabrica: "529008310 REP",
     tipoModificacion: "",
@@ -352,7 +352,7 @@ export const listaDeProductos = [
   {
     id: 84612,
     nombre: "ALTERNADOR AIRE MOTOR 1.9  ( 17X60X26/14)",
-    precio: 3922.072,
+    precio: 4314.279200000001,
     rubro: "Nylon",
     codigoFabrica: "F-236667 VKM-03029",
     tipoModificacion: "A",
@@ -374,7 +374,7 @@ export const listaDeProductos = [
   {
     id: 84613,
     nombre: "ACCESORIOS VW   SCIROCCO 17X70X25 ( 90500299)",
-    precio: 3513.4770000000003,
+    precio: 3864.8247000000006,
     rubro: "Chapa",
     codigoFabrica: 90500229,
     tipoModificacion: "",
@@ -386,7 +386,7 @@ export const listaDeProductos = [
   {
     id: 84630,
     nombre: "ALTERNADOR A/A  VW AMAROK 4X4 3.0 V6 2017 17X55X28",
-    precio: 17637.18,
+    precio: 21601.464500000006,
     rubro: "Chapa",
     codigoFabrica: 532085310,
     tipoModificacion: "A",
@@ -398,7 +398,7 @@ export const listaDeProductos = [
   {
     id: 84631,
     nombre: "ALTERNADOR A/A  VW AMAROK 4X4 3.0 V6 2017 17X55X28",
-    precio: 16528.03,
+    precio: 20380.828600000004,
     rubro: "Nylon",
     codigoFabrica: 532085310,
     tipoModificacion: "A",
@@ -410,7 +410,7 @@ export const listaDeProductos = [
   {
     id: 84645,
     nombre: "ALTERNADOR AIRE AMAROK  ( 8X70X29 )",
-    precio: 5398.195000000001,
+    precio: 5938.014500000001,
     rubro: "Nylon",
     codigoFabrica: "VKM-31008",
     tipoModificacion: "",
@@ -422,7 +422,7 @@ export const listaDeProductos = [
   {
     id: "84645-2",
     nombre: "ALTERNADOR AIRE AMAROK  ( 8X70X29 ) DOBLE ROD",
-    precio: 6713.168000000001,
+    precio: 7384.484800000001,
     rubro: "Nylon",
     codigoFabrica: "VKM-31008",
     tipoModificacion: "",
@@ -434,7 +434,7 @@ export const listaDeProductos = [
   {
     id: 84646,
     nombre: "ALTERNADOR AIRE  BUJE HEX 8X78X26",
-    precio: 4268.616,
+    precio: 4695.4776,
     rubro: "Nylon",
     codigoFabrica: "VKM-31004",
     tipoModificacion: "",
@@ -446,7 +446,7 @@ export const listaDeProductos = [
   {
     id: 84647,
     nombre: "ALTERNADOR AIRE  17X78X26",
-    precio: 2569.6000000000004,
+    precio: 2826.560000000001,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -458,7 +458,7 @@ export const listaDeProductos = [
   {
     id: 84648,
     nombre: "ALTERNADOR AIRE MULTICANAL",
-    precio: 5474.128,
+    precio: 6021.5408,
     rubro: "Nylon",
     codigoFabrica: "VKM-35002",
     tipoModificacion: "",
@@ -470,7 +470,7 @@ export const listaDeProductos = [
   {
     id: 84649,
     nombre: "ALTERNADOR AIRE   17X70X26",
-    precio: 3543.3970000000004,
+    precio: 3897.736700000001,
     rubro: "Chapa",
     codigoFabrica: "038-903315",
     tipoModificacion: "",
@@ -482,7 +482,7 @@ export const listaDeProductos = [
   {
     id: 84650,
     nombre: "ALTERNADOR AIRE MULTICANAL",
-    precio: 3826.6800000000003,
+    precio: 4209.348000000001,
     rubro: "Nylon",
     codigoFabrica: "VKM-31041",
     tipoModificacion: "",
@@ -494,7 +494,7 @@ export const listaDeProductos = [
   {
     id: 84651,
     nombre: "ACCESORIO VW SCIROCCO  17X76.30X25.70   REPUESTOS",
-    precio: 4144.151,
+    precio: 4558.5661,
     rubro: "Chapa",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -506,7 +506,7 @@ export const listaDeProductos = [
   {
     id: 84655,
     nombre: "ALTERNADOR A/A MULTIVIA   CHERY TIGGO  17X64/68X25",
-    precio: 4764.012000000001,
+    precio: 5240.413200000001,
     rubro: "Nylon",
     codigoFabrica: "APV2942",
     tipoModificacion: "",
@@ -518,7 +518,7 @@ export const listaDeProductos = [
   {
     id: 84668,
     nombre: "ALTERNADOR AIRE",
-    precio: 3003.3190000000004,
+    precio: 3303.6509000000005,
     rubro: "Nylon",
     codigoFabrica: "F-123762",
     tipoModificacion: "",
@@ -530,7 +530,7 @@ export const listaDeProductos = [
   {
     id: 84671,
     nombre: "ALTERNADOR AIRE  17X76X21",
-    precio: 3003.3190000000004,
+    precio: 3303.6509000000005,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -542,7 +542,7 @@ export const listaDeProductos = [
   {
     id: 84679,
     nombre: "ALTERNADOR AIRE",
-    precio: 3003.3190000000004,
+    precio: 3303.6509000000005,
     rubro: "Nylon",
     codigoFabrica: "F-236668  5751-740",
     tipoModificacion: "",
@@ -554,7 +554,7 @@ export const listaDeProductos = [
   {
     id: 84690,
     nombre: "ALTERNADOR AIRE 17X60X26",
-    precio: 2208.7450000000003,
+    precio: 2429.6195000000007,
     rubro: "Nylon",
     codigoFabrica: "VKM-36018",
     tipoModificacion: "A",
@@ -566,7 +566,7 @@ export const listaDeProductos = [
   {
     id: 84691,
     nombre: "ALTERNADOR AIRE 17X60X26 EMBUTIDA",
-    precio: 3893.2300000000005,
+    precio: 4282.553000000001,
     rubro: "Chapa",
     codigoFabrica: "VKM-36018",
     tipoModificacion: "",
@@ -578,7 +578,7 @@ export const listaDeProductos = [
   {
     id: 84692,
     nombre: "ALTERNADOR AIRE",
-    precio: 3003.3190000000004,
+    precio: 3303.6509000000005,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -590,7 +590,7 @@ export const listaDeProductos = [
   {
     id: 84693,
     nombre: "ALTERNADOR AIRE 10X65X26",
-    precio: 3568.664,
+    precio: 3925.5304000000006,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -602,7 +602,7 @@ export const listaDeProductos = [
   {
     id: 84694,
     nombre: "ALTERNADOR AIRE 17X62X26   KANGOO 1,6",
-    precio: 4492.334000000001,
+    precio: 4941.567400000001,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -614,7 +614,7 @@ export const listaDeProductos = [
   {
     id: 84695,
     nombre: "17X65X18",
-    precio: 3671.701,
+    precio: 4038.8711000000003,
     rubro: "Chapa",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -626,7 +626,7 @@ export const listaDeProductos = [
   {
     id: 84696,
     nombre: "ACCESORIOS 17X65X25            JOURNEY",
-    precio: 2722.61,
+    precio: 2994.8710000000005,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -638,7 +638,7 @@ export const listaDeProductos = [
   {
     id: 84697,
     nombre: "ALTERNADOR AIRE VARIOS 17X65X26",
-    precio: 2208.7450000000003,
+    precio: 2429.6195000000007,
     rubro: "Nylon",
     codigoFabrica: "VKM-35603",
     tipoModificacion: "A",
@@ -650,7 +650,7 @@ export const listaDeProductos = [
   {
     id: "84697-2",
     nombre: "ALTOERNADOR AIRE DOBLE RUL 17X65X26",
-    precio: 6279.603,
+    precio: 6907.563300000001,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -662,7 +662,7 @@ export const listaDeProductos = [
   {
     id: 84698,
     nombre: "ALTERNADOR AIRE VARIOS 17X65X26",
-    precio: 3756.1590000000006,
+    precio: 4131.774900000001,
     rubro: "Chapa",
     codigoFabrica: "VKM-35603",
     tipoModificacion: "",
@@ -674,7 +674,7 @@ export const listaDeProductos = [
   {
     id: 84699,
     nombre: "ACCESORIOS 17X65X25            JOURNEY",
-    precio: 4319.601000000001,
+    precio: 4751.561100000001,
     rubro: "Chapa",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -686,7 +686,7 @@ export const listaDeProductos = [
   {
     id: 84700,
     nombre: "ALTERNADOR AIRE MOT 1.7  17X68X22  HASTA 1993",
-    precio: 3250.6430000000005,
+    precio: 3575.707300000001,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -698,7 +698,7 @@ export const listaDeProductos = [
   {
     id: 84703,
     nombre: "ALTERNADOR AIRE VARIOS",
-    precio: 3003.3190000000004,
+    precio: 3303.6509000000005,
     rubro: "Nylon",
     codigoFabrica: "F-123747",
     tipoModificacion: "",
@@ -710,7 +710,7 @@ export const listaDeProductos = [
   {
     id: 84704,
     nombre: "ALTERNADOR AIRE VARIOS MOT 1.6  16V",
-    precio: 3003.3190000000004,
+    precio: 3303.6509000000005,
     rubro: "Nylon",
     codigoFabrica: "F-230025",
     tipoModificacion: "",
@@ -722,7 +722,7 @@ export const listaDeProductos = [
   {
     id: 84710,
     nombre: "10X65X26",
-    precio: 4584.041000000001,
+    precio: 5042.445100000002,
     rubro: "Chapa",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -734,7 +734,7 @@ export const listaDeProductos = [
   {
     id: 84734,
     nombre: "ALTERNADOR AIRE MULTICANAL ( CORREA 5PK)",
-    precio: 6693.236000000001,
+    precio: 7362.559600000001,
     rubro: "Nylon",
     codigoFabrica: 94702967,
     tipoModificacion: "",
@@ -746,7 +746,7 @@ export const listaDeProductos = [
   {
     id: 84735,
     nombre: "ALTERNADOR AIRE   12X70X26",
-    precio: 3824.6780000000003,
+    precio: 4207.145800000001,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -758,7 +758,7 @@ export const listaDeProductos = [
   {
     id: 84736,
     nombre: "ALTERNADOR AIRE   12X70X26",
-    precio: 4877.158,
+    precio: 5364.873800000001,
     rubro: "Chapa",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -770,7 +770,7 @@ export const listaDeProductos = [
   {
     id: 84737,
     nombre: "ALTERNADOR AIRE 17X70X26",
-    precio: 3343.0870000000004,
+    precio: 3677.395700000001,
     rubro: "Chapa",
     codigoFabrica: 90500229,
     tipoModificacion: "A",
@@ -782,7 +782,7 @@ export const listaDeProductos = [
   {
     id: 84738,
     nombre: "ALTERNADOR AIRE   17X70X30",
-    precio: 2955.073,
+    precio: 3250.5803,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -794,7 +794,7 @@ export const listaDeProductos = [
   {
     id: 84739,
     nombre: "ALTERNADOR AIRE   17X70X30",
-    precio: 3756.0050000000006,
+    precio: 4131.605500000001,
     rubro: "Chapa",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -806,7 +806,7 @@ export const listaDeProductos = [
   {
     id: 84740,
     nombre: "ALTERNADOR AIRE  VARIOS  ( 17X70X23)",
-    precio: 2756.688,
+    precio: 3032.3568000000005,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -818,7 +818,7 @@ export const listaDeProductos = [
   {
     id: 84741,
     nombre: "ALTERNADOR AIRE MOT 1.8",
-    precio: 4896.408,
+    precio: 5386.0488000000005,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -830,7 +830,7 @@ export const listaDeProductos = [
   {
     id: 84742,
     nombre: "ALTERNADOR AIRE 17X70X23",
-    precio: 3513.4770000000003,
+    precio: 3864.8247000000006,
     rubro: "Chapa",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -842,7 +842,7 @@ export const listaDeProductos = [
   {
     id: 84745,
     nombre: "ROLDANA 8X65X25",
-    precio: 4625.984,
+    precio: 5088.582400000001,
     rubro: "Nylon",
     codigoFabrica: "F-113371",
     tipoModificacion: "",
@@ -854,7 +854,7 @@ export const listaDeProductos = [
   {
     id: 84748,
     nombre: "ACCESORIOS  F-239069,4 REPUESTOS     KUGGA",
-    precio: 3865.059,
+    precio: 4251.5649,
     rubro: "Nylon",
     codigoFabrica: "F-239069.4",
     tipoModificacion: "",
@@ -866,7 +866,7 @@ export const listaDeProductos = [
   {
     id: 84749,
     nombre: "ACCESORIOS F-239071,04 REPUESTO    KUGGA",
-    precio: 4114.319,
+    precio: 4525.750900000001,
     rubro: "Chapa",
     codigoFabrica: "F-239071.04",
     tipoModificacion: "",
@@ -878,7 +878,7 @@ export const listaDeProductos = [
   {
     id: 84750,
     nombre: "ALTERNADOR AIRE  VARIOS  ( 17X70X26/14)  AMAROK",
-    precio: 4567.156000000001,
+    precio: 5023.871600000001,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "A",
@@ -890,7 +890,7 @@ export const listaDeProductos = [
   {
     id: 84751,
     nombre: "ALTERNADOR AIRE MOT 1.7  17X70X26",
-    precio: 2569.6000000000004,
+    precio: 2826.560000000001,
     rubro: "Nylon",
     codigoFabrica: "95WF 216A",
     tipoModificacion: "",
@@ -902,7 +902,7 @@ export const listaDeProductos = [
   {
     id: 84752,
     nombre: "ALTERNADOR AIRE  17X73X22",
-    precio: 2370.5550000000003,
+    precio: 2607.6105000000007,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -914,7 +914,7 @@ export const listaDeProductos = [
   {
     id: 84753,
     nombre: "ALTERNADOR AIRE MOT  16 V  10,50X70X29/33",
-    precio: 7319.334,
+    precio: 8051.267400000001,
     rubro: "Nylon",
     codigoFabrica: "VKM-32301",
     tipoModificacion: "",
@@ -926,7 +926,7 @@ export const listaDeProductos = [
   {
     id: 84754,
     nombre: "ALTERNADOR AIRE 17X70X22",
-    precio: 3311.253,
+    precio: 3642.3783000000003,
     rubro: "Chapa",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -938,7 +938,7 @@ export const listaDeProductos = [
   {
     id: 84755,
     nombre: "ALTERNADOR AIRE 17X70X22",
-    precio: 2802.2830000000004,
+    precio: 3082.5113000000006,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -950,7 +950,7 @@ export const listaDeProductos = [
   {
     id: 84756,
     nombre: "ALTERNADOR AIRE 17X76X18",
-    precio: 3078.1520000000005,
+    precio: 3385.967200000001,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -962,7 +962,7 @@ export const listaDeProductos = [
   {
     id: 84757,
     nombre: "ALTERNADOR AIRE 17X70X24",
-    precio: 4251.984,
+    precio: 4677.182400000001,
     rubro: "Chapa",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -974,7 +974,7 @@ export const listaDeProductos = [
   {
     id: 84758,
     nombre: "17X76X19",
-    precio: 3480.8400000000006,
+    precio: 3828.924000000001,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -986,7 +986,7 @@ export const listaDeProductos = [
   {
     id: 84759,
     nombre: "ALTERNADOR AIRE 17X70X24",
-    precio: 3089.9990000000003,
+    precio: 3398.9989000000005,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -998,7 +998,7 @@ export const listaDeProductos = [
   {
     id: 84760,
     nombre: "ALTERNADOR AIRE 17X65X21",
-    precio: 2569.1270000000004,
+    precio: 2826.0397000000007,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -1010,7 +1010,7 @@ export const listaDeProductos = [
   {
     id: 84761,
     nombre: "ALTERNADOR AIRE 17X56X21 MOT 1.4 TDCI",
-    precio: 3619.792,
+    precio: 3981.7712,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -1022,7 +1022,7 @@ export const listaDeProductos = [
   {
     id: 84762,
     nombre: "ALTERNADOR VARIOS 17X65X18",
-    precio: 2768.8430000000003,
+    precio: 3045.7273000000005,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -1034,7 +1034,7 @@ export const listaDeProductos = [
   {
     id: 84763,
     nombre: "ALTERNADOR AIRE  8X56X21",
-    precio: 4310.108,
+    precio: 4741.1188,
     rubro: "Nylon",
     codigoFabrica: "VKM-36025 F-122676.11",
     tipoModificacion: "",
@@ -1046,7 +1046,7 @@ export const listaDeProductos = [
   {
     id: 84765,
     nombre: "ALTERNADOR AIRE 17X85X32",
-    precio: 3099.8,
+    precio: 3409.7800000000007,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -1058,7 +1058,7 @@ export const listaDeProductos = [
   {
     id: 84766,
     nombre: "ALETNADOR AIRE 17X85X29",
-    precio: 3269.695,
+    precio: 3596.6645000000003,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -1070,7 +1070,7 @@ export const listaDeProductos = [
   {
     id: 84768,
     nombre: "ALTERNADOR AIRE MOT 1.8 2.0 16 V 17X54X32",
-    precio: 2963.378,
+    precio: 3259.7158000000004,
     rubro: "Nylon",
     codigoFabrica: "VKM-26310",
     tipoModificacion: "",
@@ -1082,7 +1082,7 @@ export const listaDeProductos = [
   {
     id: 84778,
     nombre: "DISTRIBUCION 30X70X21,50",
-    precio: 4786.562000000001,
+    precio: 5265.218200000001,
     rubro: "Nylon",
     codigoFabrica: "VKM-70001",
     tipoModificacion: "",
@@ -1094,7 +1094,7 @@ export const listaDeProductos = [
   {
     id: 84779,
     nombre: "10X80X26",
-    precio: 3549.876,
+    precio: 3904.8636000000006,
     rubro: "Nylon",
     codigoFabrica: "10X80X26",
     tipoModificacion: "",
@@ -1106,7 +1106,7 @@ export const listaDeProductos = [
   {
     id: 84780,
     nombre: "POLY V  10X80X23",
-    precio: 3549.887,
+    precio: 3904.8757000000005,
     rubro: "Nylon",
     codigoFabrica: "F-123662  580802",
     tipoModificacion: "",
@@ -1118,7 +1118,7 @@ export const listaDeProductos = [
   {
     id: 84781,
     nombre: "ALTERNADOR AIRE 10X80X26      MOT 1.3",
-    precio: 4060.1990000000005,
+    precio: 4466.218900000001,
     rubro: "Nylon",
     codigoFabrica: "10X80X26",
     tipoModificacion: "",
@@ -1130,7 +1130,7 @@ export const listaDeProductos = [
   {
     id: 84785,
     nombre: "POLY V  17X90X29",
-    precio: 3298.922,
+    precio: 3628.8142000000003,
     rubro: "Nylon",
     codigoFabrica: "17X90X29",
     tipoModificacion: "",
@@ -1142,7 +1142,7 @@ export const listaDeProductos = [
   {
     id: 84787,
     nombre: "POLY  V RANGER 4 CIL  F100 4.9 17X90X30",
-    precio: 3298.922,
+    precio: 3628.8142000000003,
     rubro: "Nylon",
     codigoFabrica: "17X90X30",
     tipoModificacion: "",
@@ -1154,7 +1154,7 @@ export const listaDeProductos = [
   {
     id: 84810,
     nombre: "ALTERNADOR AIRE   17X80X26",
-    precio: 3039.322,
+    precio: 3343.2542000000003,
     rubro: "Nylon",
     codigoFabrica: "17X80X26",
     tipoModificacion: "",
@@ -1166,7 +1166,7 @@ export const listaDeProductos = [
   {
     id: 84811,
     nombre: "ALTERNADOR AIRE  17X80X23  MOT 1.3",
-    precio: 3039.322,
+    precio: 3343.2542000000003,
     rubro: "Nylon",
     codigoFabrica: "17X80X23",
     tipoModificacion: "",
@@ -1178,7 +1178,7 @@ export const listaDeProductos = [
   {
     id: 84833,
     nombre: "DISTRIBUCION   20X60X29",
-    precio: 3755.257,
+    precio: 4130.782700000001,
     rubro: "Nylon",
     codigoFabrica: 633272,
     tipoModificacion: "",
@@ -1190,7 +1190,7 @@ export const listaDeProductos = [
   {
     id: 84858,
     nombre: "TOYOTA ALTERNADOR  V  12X83X28",
-    precio: 11107.998000000001,
+    precio: 12218.797800000002,
     rubro: "Acero",
     codigoFabrica: "12x83x20",
     tipoModificacion: "",
@@ -1202,7 +1202,7 @@ export const listaDeProductos = [
   {
     id: 84859,
     nombre: "TOYOTA ALTERNADOR  15X50X21",
-    precio: 9017.921000000002,
+    precio: 9919.713100000003,
     rubro: "Acero",
     codigoFabrica: "15x50x21",
     tipoModificacion: "",
@@ -1214,7 +1214,7 @@ export const listaDeProductos = [
   {
     id: 84860,
     nombre: "ALTERNADOR AIRE   12X70X29",
-    precio: 10054.583000000002,
+    precio: 11060.041300000003,
     rubro: "Acero",
     codigoFabrica: "12x70x29",
     tipoModificacion: "",
@@ -1226,7 +1226,7 @@ export const listaDeProductos = [
   {
     id: 84862,
     nombre: "ALTERNADOR AIRE   12X80X29",
-    precio: 10364.145000000002,
+    precio: 11400.559500000003,
     rubro: "Acero",
     codigoFabrica: "12x80x29",
     tipoModificacion: "",
@@ -1238,7 +1238,7 @@ export const listaDeProductos = [
   {
     id: 84897,
     nombre: "DISTRIBUCION",
-    precio: 8806.6,
+    precio: 9687.260000000002,
     rubro: "Acero",
     codigoFabrica: "VKM-12151",
     tipoModificacion: "",
@@ -1250,7 +1250,7 @@ export const listaDeProductos = [
   {
     id: 84903,
     nombre: "DISTRIBUCION",
-    precio: 8806.248000000001,
+    precio: 9686.872800000003,
     rubro: "Acero",
     codigoFabrica: "VKM-12153",
     tipoModificacion: "",
@@ -1262,7 +1262,7 @@ export const listaDeProductos = [
   {
     id: 84917,
     nombre: "DISTRIBUCION",
-    precio: 6035.381,
+    precio: 6638.919100000001,
     rubro: "Acero",
     codigoFabrica: "VKM-12200",
     tipoModificacion: "",
@@ -1274,7 +1274,7 @@ export const listaDeProductos = [
   {
     id: "84921-N",
     nombre: "DISTRIBUCION 25X64X34 DUCATO NYLON 2.5 2.8",
-    precio: 7312.8330000000005,
+    precio: 8044.1163000000015,
     rubro: "Nylon",
     codigoFabrica: "VKM-22380",
     tipoModificacion: "",
@@ -1286,7 +1286,7 @@ export const listaDeProductos = [
   {
     id: 84921,
     nombre: "DISTRIBUCION   25X64X34",
-    precio: 8175.937000000001,
+    precio: 8993.530700000001,
     rubro: "Acero",
     codigoFabrica: "VKM-22380",
     tipoModificacion: "",
@@ -1298,7 +1298,7 @@ export const listaDeProductos = [
   {
     id: 84944,
     nombre: "DISTRIBUCION MOVIL NAFTA",
-    precio: 9473.805,
+    precio: 10421.185500000001,
     rubro: "Acero",
     codigoFabrica: "VKM-16200",
     tipoModificacion: "",
@@ -1310,7 +1310,7 @@ export const listaDeProductos = [
   {
     id: 84945,
     nombre: "DISTRIBUCION MOVIL NAFTA",
-    precio: 5946.589,
+    precio: 6541.2479,
     rubro: "Nylon",
     codigoFabrica: "VKM-16200",
     tipoModificacion: "",
@@ -1322,7 +1322,7 @@ export const listaDeProductos = [
   {
     id: 84946,
     nombre: "DISTRIBUCION MOVIL NAFTA",
-    precio: 6434.109,
+    precio: 7077.519900000001,
     rubro: "Chapa",
     codigoFabrica: "VKM-16200",
     tipoModificacion: "",
@@ -1334,7 +1334,7 @@ export const listaDeProductos = [
   {
     id: 84952,
     nombre: "ALTERNADOR AIRE",
-    precio: 5003.119000000001,
+    precio: 5503.430900000001,
     rubro: "Chapa",
     codigoFabrica: "VKM-36022",
     tipoModificacion: "",
@@ -1346,7 +1346,7 @@ export const listaDeProductos = [
   {
     id: 84959,
     nombre: "DISTRIBUCION MOVIL DIESEL",
-    precio: 9646.901,
+    precio: 10611.591100000001,
     rubro: "Acero",
     codigoFabrica: "VKM-16210",
     tipoModificacion: "",
@@ -1358,7 +1358,7 @@ export const listaDeProductos = [
   {
     id: 85000,
     nombre: "ALTERNADOR VARIOS   17X94X26",
-    precio: 3825.6460000000006,
+    precio: 4208.210600000001,
     rubro: "Nylon",
     codigoFabrica: "17x94x26",
     tipoModificacion: "",
@@ -1370,7 +1370,7 @@ export const listaDeProductos = [
   {
     id: 85008,
     nombre: "ALTERNADOR AIRE MOT  2.2",
-    precio: 3825.6460000000006,
+    precio: 4208.210600000001,
     rubro: "Nylon",
     codigoFabrica: "VKM-36003",
     tipoModificacion: "",
@@ -1382,7 +1382,7 @@ export const listaDeProductos = [
   {
     id: 85015,
     nombre: "ALTERNADOR   V",
-    precio: 3756.0050000000006,
+    precio: 4131.605500000001,
     rubro: "Chapa",
     codigoFabrica: "F-137209",
     tipoModificacion: "",
@@ -1394,7 +1394,7 @@ export const listaDeProductos = [
   {
     id: 85019,
     nombre: "DISTRIBUCION MOTOR 1.3 DISESEL",
-    precio: 6619.250000000001,
+    precio: 7281.175000000002,
     rubro: "Acero",
     codigoFabrica: "VKM-12630",
     tipoModificacion: "",
@@ -1406,7 +1406,7 @@ export const listaDeProductos = [
   {
     id: 85034,
     nombre: "F-225807/10",
-    precio: 5233.261,
+    precio: 5756.587100000001,
     rubro: "Nylon",
     codigoFabrica: "F-225807/10",
     tipoModificacion: "",
@@ -1418,7 +1418,7 @@ export const listaDeProductos = [
   {
     id: 85035,
     nombre: "AA ALTERNADOR MULTICANAL 940703810094",
-    precio: 6636.718000000001,
+    precio: 7300.389800000002,
     rubro: "Nylon",
     codigoFabrica: 940703810094,
     tipoModificacion: "",
@@ -1430,7 +1430,7 @@ export const listaDeProductos = [
   {
     id: 85036,
     nombre: "ALETRNADOR AIRE  DIESEL",
-    precio: 4183.080000000001,
+    precio: 4601.388000000002,
     rubro: "Nylon",
     codigoFabrica: "028-145299",
     tipoModificacion: "M",
@@ -1442,7 +1442,7 @@ export const listaDeProductos = [
   {
     id: 85037,
     nombre: "ALTERNADOR MOT 2.0    MULTICANAL ECOSPORT 17X70X26",
-    precio: 4183.080000000001,
+    precio: 4601.388000000002,
     rubro: "Nylon",
     codigoFabrica: "17X70X26",
     tipoModificacion: "",
@@ -1454,7 +1454,7 @@ export const listaDeProductos = [
   {
     id: 85038,
     nombre: "ALTERNADOR MOT 2.0   17X70X26 MULTICANAL ECOSPORT 17/10X70X26",
-    precio: 4673.713000000001,
+    precio: 5141.084300000001,
     rubro: "Nylon",
     codigoFabrica: "17/10X70X26 CON BUJE",
     tipoModificacion: "M",
@@ -1466,7 +1466,7 @@ export const listaDeProductos = [
   {
     id: 85039,
     nombre: "ALTERNADOR MOT 2.0  FOCUS/ECOSPORT",
-    precio: 4988.159,
+    precio: 5486.9749,
     rubro: "Nylon",
     codigoFabrica: "CM5Z-6B209-A",
     tipoModificacion: "",
@@ -1478,7 +1478,7 @@ export const listaDeProductos = [
   {
     id: 85042,
     nombre: "ALTERNADOR 8X65X26",
-    precio: 3824.7990000000004,
+    precio: 4207.278900000001,
     rubro: "Nylon",
     codigoFabrica: "VKM-31002",
     tipoModificacion: "",
@@ -1490,7 +1490,7 @@ export const listaDeProductos = [
   {
     id: 85043,
     nombre: "ALTERNADOR MULTICANAL",
-    precio: 4183.080000000001,
+    precio: 4601.388000000002,
     rubro: "Nylon",
     codigoFabrica: "377-145299",
     tipoModificacion: "M",
@@ -1502,7 +1502,7 @@ export const listaDeProductos = [
   {
     id: 85044,
     nombre: "DISTRIBUCION DIESEL",
-    precio: 8453.973000000002,
+    precio: 9299.370300000002,
     rubro: "Acero",
     codigoFabrica: "VKM-26101",
     tipoModificacion: "",
@@ -1514,7 +1514,7 @@ export const listaDeProductos = [
   {
     id: 85045,
     nombre: "AIRE ACONDICIONADO",
-    precio: 3263.909,
+    precio: 3590.2999000000004,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -1526,7 +1526,7 @@ export const listaDeProductos = [
   {
     id: 85048,
     nombre: "ALTERNADOR MOTOR 2.0",
-    precio: 3863.904,
+    precio: 4250.294400000001,
     rubro: "Nylon",
     codigoFabrica: "VKM-35603",
     tipoModificacion: "",
@@ -1538,7 +1538,7 @@ export const listaDeProductos = [
   {
     id: 85049,
     nombre: "ALTERNADOR MOTOR 2.0",
-    precio: 4490.112,
+    precio: 4939.123200000001,
     rubro: "Nylon",
     codigoFabrica: "VKM-32093",
     tipoModificacion: "",
@@ -1550,7 +1550,7 @@ export const listaDeProductos = [
   {
     id: 85050,
     nombre: "DISTRIBUCION",
-    precio: 13778.666000000001,
+    precio: 15156.532600000002,
     rubro: "Acero",
     codigoFabrica: "VKM-27404  F-49332",
     tipoModificacion: "",
@@ -1562,7 +1562,7 @@ export const listaDeProductos = [
   {
     id: 85052,
     nombre: "POLY V 17X70X28",
-    precio: 3072.1900000000005,
+    precio: 3379.409000000001,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -1574,7 +1574,7 @@ export const listaDeProductos = [
   {
     id: 85055,
     nombre: "AIRE ALTERNADOR  MERCEDEZ BENZ GLK 280/300 V6",
-    precio: 6370.650000000001,
+    precio: 7007.715000000001,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -1586,7 +1586,7 @@ export const listaDeProductos = [
   {
     id: 85074,
     nombre: "POLY V  8X65X29",
-    precio: 3821.7960000000003,
+    precio: 4203.975600000001,
     rubro: "Chapa",
     codigoFabrica: 551811,
     tipoModificacion: "",
@@ -1598,7 +1598,7 @@ export const listaDeProductos = [
   {
     id: 85088,
     nombre: "POLY V",
-    precio: 3525.3460000000005,
+    precio: 3877.880600000001,
     rubro: "Chapa",
     codigoFabrica: 511814,
     tipoModificacion: "",
@@ -1610,7 +1610,7 @@ export const listaDeProductos = [
   {
     id: 85100,
     nombre: "ALTERNADOR AIRE  17X60X31",
-    precio: 3296.623,
+    precio: 3626.2853000000005,
     rubro: "Nylon",
     codigoFabrica: "VKM-36040",
     tipoModificacion: "",
@@ -1622,7 +1622,7 @@ export const listaDeProductos = [
   {
     id: 85116,
     nombre: "DISTRIBUCION",
-    precio: 4047.01,
+    precio: 4451.711,
     rubro: "Nylon",
     codigoFabrica: "F-77E-6B-209",
     tipoModificacion: "",
@@ -1634,7 +1634,7 @@ export const listaDeProductos = [
   {
     id: 85250,
     nombre: "8X70X29",
-    precio: 3709.7720000000004,
+    precio: 4080.7492000000007,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -1646,31 +1646,31 @@ export const listaDeProductos = [
   {
     id: 85251,
     nombre: "ALTERNADOR AIRE",
-    precio: 3709.2990000000004,
+    precio: 4080.228900000001,
     rubro: "Nylon",
     codigoFabrica: "VKM-36013 F-120850",
     tipoModificacion: "",
     marca: "",
-    modelos: ["19.19"],
+    modelos: ["TRAFIC - 19"],
     linkImagen:
       "http://drive.google.com/uc?export=view&id=102jgiTDI-7g4mS2zncLffbbhiPwuzERU",
   },
   {
     id: 85252,
     nombre: "ALTERNADOR AIRE",
-    precio: 4765.508,
+    precio: 5242.0588,
     rubro: "Chapa",
     codigoFabrica: "VKM-36013 F-120850 10X70X30",
     tipoModificacion: "",
     marca: "",
-    modelos: ["19.19"],
+    modelos: ["TRAFIC - 19"],
     linkImagen:
       "http://drive.google.com/uc?export=view&id=1VpagFsVZMaTAegbm_muep41aoYFDyd9s",
   },
   {
     id: 85253,
     nombre: "10X70X26 EMBUTIDA",
-    precio: 4457.585,
+    precio: 4903.343500000001,
     rubro: "Chapa",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -1682,7 +1682,7 @@ export const listaDeProductos = [
   {
     id: 85300,
     nombre: "ALTERNADOR AIRE 8X56X21",
-    precio: 6759.093000000001,
+    precio: 7435.002300000001,
     rubro: "Acero",
     codigoFabrica: "VKM-36023 F-122573",
     tipoModificacion: "",
@@ -1694,7 +1694,7 @@ export const listaDeProductos = [
   {
     id: "85300-N",
     nombre: "ALTERNADOR AIRE 8X56X21",
-    precio: 6254.138000000001,
+    precio: 6879.551800000001,
     rubro: "Nylon",
     codigoFabrica: "VKM-36023 F-122573",
     tipoModificacion: "",
@@ -1706,7 +1706,7 @@ export const listaDeProductos = [
   {
     id: "85300-2",
     nombre: "ALTERNADOR AIRE MOTOR 1.2  ANCHO 8X56X24,00MM",
-    precio: 6745.2660000000005,
+    precio: 7419.792600000002,
     rubro: "Acero",
     codigoFabrica: "VKM-36023 F-122573",
     tipoModificacion: "",
@@ -1718,7 +1718,7 @@ export const listaDeProductos = [
   {
     id: "85300-2N",
     nombre: "ALTERNADOR AIRE MOTOR 1.2  ANCHO 8X56X24,00MM",
-    precio: 6254.138000000001,
+    precio: 6879.551800000001,
     rubro: "Nylon",
     codigoFabrica: "VKM-36023 F-122573",
     tipoModificacion: "",
@@ -1730,7 +1730,7 @@ export const listaDeProductos = [
   {
     id: 85301,
     nombre: "ALTERNADOR AIRE",
-    precio: 7408.115,
+    precio: 8148.9265000000005,
     rubro: "Chapa",
     codigoFabrica: "VKM-36006",
     tipoModificacion: "",
@@ -1742,7 +1742,7 @@ export const listaDeProductos = [
   {
     id: 85302,
     nombre: "ALTERNADOR AIRE 17X76X20  MOT 1.4",
-    precio: 3312.2760000000003,
+    precio: 3643.5036000000005,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -1754,7 +1754,7 @@ export const listaDeProductos = [
   {
     id: 85305,
     nombre: "DISTRIBUCION RAYADO 10X54X32 DOBLE RODAMIENTO",
-    precio: 6500.857,
+    precio: 7150.9427000000005,
     rubro: "Nylon",
     codigoFabrica: "VKM-26020 F-123778",
     tipoModificacion: "",
@@ -1766,7 +1766,7 @@ export const listaDeProductos = [
   {
     id: 85306,
     nombre: "ACCESORIOS  10X60X30 ( DOBLE ROD )",
-    precio: 6743.407,
+    precio: 7417.747700000001,
     rubro: "Nylon",
     codigoFabrica: "VKM-23140 F-123906",
     tipoModificacion: "",
@@ -1778,7 +1778,7 @@ export const listaDeProductos = [
   {
     id: 85309,
     nombre: "DISTRIBUCION MOTOR DIESEL",
-    precio: 8250.286,
+    precio: 9075.314600000002,
     rubro: "Chapa",
     codigoFabrica: "VKM-36012 F-121271.1",
     tipoModificacion: "",
@@ -1790,9 +1790,9 @@ export const listaDeProductos = [
   {
     id: 85318,
     nombre: "DISTRIBUCION FIJO ( DOBLE ROD )",
-    precio: 6743.649,
+    precio: 7418.013900000001,
     rubro: "Nylon",
-    codigoFabrica: "F-122574",
+    codigoFabrica: "VKM-23256",
     tipoModificacion: "",
     marca: "",
     modelos: ["GALAXY", "GOL"],
@@ -1802,7 +1802,7 @@ export const listaDeProductos = [
   {
     id: 85321,
     nombre: "ALTERNADOR  MOT NAFTA",
-    precio: 4205.828,
+    precio: 4626.410800000001,
     rubro: "Nylon",
     codigoFabrica: "VKM-33010",
     tipoModificacion: "",
@@ -1814,7 +1814,7 @@ export const listaDeProductos = [
   {
     id: 85334,
     nombre: "DISTRIBUCION EXENTRICO",
-    precio: 8814.663,
+    precio: 9696.1293,
     rubro: "Acero",
     codigoFabrica: "VKM-13201 F-120959",
     tipoModificacion: "",
@@ -1826,7 +1826,7 @@ export const listaDeProductos = [
   {
     id: 85353,
     nombre: "10X70X25    CHAPA EMBUTIDA",
-    precio: 4327.763,
+    precio: 4760.5393,
     rubro: "Chapa",
     codigoFabrica: "10X70X25 CHAPA EMBUTIDA",
     tipoModificacion: "",
@@ -1838,7 +1838,7 @@ export const listaDeProductos = [
   {
     id: 85358,
     nombre: "ALTERNADOR",
-    precio: 4291.485000000001,
+    precio: 4720.633500000001,
     rubro: "Nylon",
     codigoFabrica: "VKM-23240",
     tipoModificacion: "",
@@ -1850,7 +1850,7 @@ export const listaDeProductos = [
   {
     id: 85359,
     nombre: "ALTERNADOR Y A/A MOTOR 2.0 // 1.9 DIESEL - 2.0 SPORT",
-    precio: 6107.200000000001,
+    precio: 6717.920000000001,
     rubro: "Acero",
     codigoFabrica: "VKM-36016",
     tipoModificacion: "",
@@ -1862,7 +1862,7 @@ export const listaDeProductos = [
   {
     id: 85361,
     nombre: "DISTRIBUCION FIJO",
-    precio: 4566.749000000001,
+    precio: 5023.423900000002,
     rubro: "Nylon",
     codigoFabrica: "VKM-23244",
     tipoModificacion: "",
@@ -1874,7 +1874,7 @@ export const listaDeProductos = [
   {
     id: 85362,
     nombre: "DISTRUBCION FIJO DOBLE RODAMIENTO",
-    precio: 8806.6,
+    precio: 9687.260000000002,
     rubro: "Nylon",
     codigoFabrica: "VKM-23244",
     tipoModificacion: "",
@@ -1886,7 +1886,7 @@ export const listaDeProductos = [
   {
     id: 85370,
     nombre: "ALTERNADOR Y A/A 1.3 16V 17X65X23",
-    precio: 2921.0280000000002,
+    precio: 3213.1308000000004,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -1898,7 +1898,7 @@ export const listaDeProductos = [
   {
     id: 85373,
     nombre: "ALTERNADOR 1,3 MPI 17X80X21",
-    precio: 3198.5910000000003,
+    precio: 3518.4501000000005,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -1910,7 +1910,7 @@ export const listaDeProductos = [
   {
     id: 85374,
     nombre: "ALTERNADOR Y A/A DIRECCION ASISTIDA  10X65X26",
-    precio: 4654.463000000001,
+    precio: 5119.909300000001,
     rubro: "Chapa",
     codigoFabrica: "VKM-36026",
     tipoModificacion: "",
@@ -1922,7 +1922,7 @@ export const listaDeProductos = [
   {
     id: "85374-2",
     nombre: "10X65X26/2 DOBLE RODAMIENTO",
-    precio: 7175.443000000001,
+    precio: 7892.987300000002,
     rubro: "Nylon",
     codigoFabrica: "F-122332",
     tipoModificacion: "",
@@ -1934,7 +1934,7 @@ export const listaDeProductos = [
   {
     id: 85375,
     nombre: "ALTERNADOR Y A/A 10X65X26",
-    precio: 4448.125,
+    precio: 4892.9375,
     rubro: "Chapa",
     codigoFabrica: "F-122332 5751.520",
     tipoModificacion: "",
@@ -1946,7 +1946,7 @@ export const listaDeProductos = [
   {
     id: 85377,
     nombre: "AIRE ACONDICIONADO 1.9D Y 1.8 TD",
-    precio: 4311.252,
+    precio: 4742.377200000001,
     rubro: "Nylon",
     codigoFabrica: "VKM-33006",
     tipoModificacion: "",
@@ -1958,7 +1958,7 @@ export const listaDeProductos = [
   {
     id: 85378,
     nombre: "ALTERNADOR Y A/A 17X60X26",
-    precio: 3825.6460000000006,
+    precio: 4208.210600000001,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -1970,7 +1970,7 @@ export const listaDeProductos = [
   {
     id: 85379,
     nombre: "POLEA ACCESORIO",
-    precio: 2920.434,
+    precio: 3212.4774000000007,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -1982,7 +1982,7 @@ export const listaDeProductos = [
   {
     id: 85381,
     nombre: "ALTERNADOR Y A/A 10X70X27",
-    precio: 6439.037,
+    precio: 7082.940700000001,
     rubro: "Nylon",
     codigoFabrica: "VKM-33023 F-123259",
     tipoModificacion: "",
@@ -1994,7 +1994,7 @@ export const listaDeProductos = [
   {
     id: 85384,
     nombre: "DISTRIBUCION (6203)",
-    precio: 8454.336000000001,
+    precio: 9299.769600000001,
     rubro: "Acero",
     codigoFabrica: "VKM-26101",
     tipoModificacion: "",
@@ -2006,7 +2006,7 @@ export const listaDeProductos = [
   {
     id: 85385,
     nombre: "DISTRIBUCION (6005)",
-    precio: 9389.512,
+    precio: 10328.463200000002,
     rubro: "Acero",
     codigoFabrica: "VKM-26101",
     tipoModificacion: "",
@@ -2018,7 +2018,7 @@ export const listaDeProductos = [
   {
     id: 85388,
     nombre: "DISTRIBUCION MOVIL 1.8 Y 1.9 D (DESDE 1994)",
-    precio: 4205.828,
+    precio: 4626.410800000001,
     rubro: "Nylon",
     codigoFabrica: "VKM-13241",
     tipoModificacion: "",
@@ -2030,7 +2030,7 @@ export const listaDeProductos = [
   {
     id: 85392,
     nombre: "DISTRIBUCION 1.8 Y 1.9 D (HASTA 1994)",
-    precio: 4205.828,
+    precio: 4626.410800000001,
     rubro: "Nylon",
     codigoFabrica: "VKM-13240",
     tipoModificacion: "",
@@ -2042,7 +2042,7 @@ export const listaDeProductos = [
   {
     id: 85411,
     nombre: "POLY V 17X60X30",
-    precio: 2871.5830000000005,
+    precio: 3158.741300000001,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -2054,7 +2054,7 @@ export const listaDeProductos = [
   {
     id: 85417,
     nombre: "REPUESTO SOPORTE DE ALUMINIO",
-    precio: 4669.863,
+    precio: 5136.849300000001,
     rubro: "Nylon",
     codigoFabrica: "VKM-33008",
     tipoModificacion: "",
@@ -2066,7 +2066,7 @@ export const listaDeProductos = [
   {
     id: 85418,
     nombre: "REPUESTO SOPORTE DE ALUMINIO",
-    precio: 4669.863,
+    precio: 5136.849300000001,
     rubro: "Chapa",
     codigoFabrica: "VKM-33008",
     tipoModificacion: "",
@@ -2078,7 +2078,7 @@ export const listaDeProductos = [
   {
     id: 85421,
     nombre: "REPUESTO SOPORTE FUNDICION",
-    precio: 6108.916000000001,
+    precio: 6719.807600000002,
     rubro: "Acero",
     codigoFabrica: "VKM-33008",
     tipoModificacion: "",
@@ -2090,7 +2090,7 @@ export const listaDeProductos = [
   {
     id: 85422,
     nombre: "ALTERNADOR 1.3 8V Y 16V 17X65X23",
-    precio: 4447.0470000000005,
+    precio: 4891.751700000001,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -2102,7 +2102,7 @@ export const listaDeProductos = [
   {
     id: 85425,
     nombre: "REPUESTO SOPORTE DE ALUMINIO 8X60X26",
-    precio: 3411.2980000000002,
+    precio: 3752.4278000000004,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -2114,7 +2114,7 @@ export const listaDeProductos = [
   {
     id: 85426,
     nombre: "REPUESTO 10X60X26",
-    precio: 3411.2980000000002,
+    precio: 3752.4278000000004,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -2126,7 +2126,7 @@ export const listaDeProductos = [
   {
     id: 85427,
     nombre: "REPUESTO ACCESORIO",
-    precio: 3576.001,
+    precio: 3933.6011000000003,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -2138,7 +2138,7 @@ export const listaDeProductos = [
   {
     id: 85428,
     nombre: "POLY V NAFTA 17X60X25",
-    precio: 2608.9800000000005,
+    precio: 2869.8780000000006,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -2150,7 +2150,7 @@ export const listaDeProductos = [
   {
     id: 85429,
     nombre: "ALTERNADOR AIRE SOP PICO ROJO 122661",
-    precio: 4654.463000000001,
+    precio: 5119.909300000001,
     rubro: "Nylon",
     codigoFabrica: "VKM-33042  VKM-33005",
     tipoModificacion: "",
@@ -2162,7 +2162,7 @@ export const listaDeProductos = [
   {
     id: 85430,
     nombre: "ALTERNADOR 1.9D 17X60X25",
-    precio: 2641.0780000000004,
+    precio: 2905.1858000000007,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -2174,7 +2174,7 @@ export const listaDeProductos = [
   {
     id: 85431,
     nombre: "REPUESTO",
-    precio: 4003.2190000000005,
+    precio: 4403.540900000001,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -2186,7 +2186,7 @@ export const listaDeProductos = [
   {
     id: 85432,
     nombre: "ALTERNADOR Y A/A",
-    precio: 3519.4500000000003,
+    precio: 3871.3950000000004,
     rubro: "Nylon",
     codigoFabrica: "VKM-33042  VKM-33005",
     tipoModificacion: "",
@@ -2198,7 +2198,7 @@ export const listaDeProductos = [
   {
     id: 85433,
     nombre: "ALTERNADOR Y A/A",
-    precio: 4585.405000000001,
+    precio: 5043.945500000001,
     rubro: "Chapa",
     codigoFabrica: "VKM-33042  VKM-33005",
     tipoModificacion: "",
@@ -2210,7 +2210,7 @@ export const listaDeProductos = [
   {
     id: 85435,
     nombre: "ALTERNADOR Y A/A MOTOR 1.9D XUD9 DW8",
-    precio: 6438.267000000001,
+    precio: 7082.093700000001,
     rubro: "Nylon",
     codigoFabrica: "VKM-33013",
     tipoModificacion: "",
@@ -2222,7 +2222,7 @@ export const listaDeProductos = [
   {
     id: 85436,
     nombre: "ALTERNADOR Y A/A",
-    precio: 8621.327000000001,
+    precio: 9483.459700000001,
     rubro: "Acero",
     codigoFabrica: "VKM-33013 F-122662",
     tipoModificacion: "",
@@ -2234,7 +2234,7 @@ export const listaDeProductos = [
   {
     id: 85437,
     nombre: 85437,
-    precio: 7909.693000000001,
+    precio: 8700.662300000002,
     rubro: "Varios",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -2246,7 +2246,7 @@ export const listaDeProductos = [
   {
     id: 85450,
     nombre: "POLY V 1.6 8V 17X60X25",
-    precio: 5333.3279999999995,
+    precio: 5866.6608,
     rubro: "Acero",
     codigoFabrica: "VKM-36221",
     tipoModificacion: "",
@@ -2258,7 +2258,7 @@ export const listaDeProductos = [
   {
     id: 85463,
     nombre: "DISTRIBUCION",
-    precio: 7553.9310000000005,
+    precio: 8309.324100000002,
     rubro: "Acero",
     codigoFabrica: "VKM-16101",
     tipoModificacion: "",
@@ -2270,7 +2270,7 @@ export const listaDeProductos = [
   {
     id: 85464,
     nombre: "ALTERNADOR Y A/A 1.4   8X70X15",
-    precio: 3515.6000000000004,
+    precio: 3867.1600000000008,
     rubro: "Nylon",
     codigoFabrica: "VKM-36080",
     tipoModificacion: "",
@@ -2282,7 +2282,7 @@ export const listaDeProductos = [
   {
     id: 85465,
     nombre: "DISTRIBUCION MOTOR 1.4 - 1.6 - 1.1",
-    precio: 6594.819,
+    precio: 7254.300900000001,
     rubro: "Acero",
     codigoFabrica: "VKM-16000",
     tipoModificacion: "",
@@ -2294,7 +2294,7 @@ export const listaDeProductos = [
   {
     id: 85466,
     nombre: "POLEA AUXILIAR",
-    precio: 3748.525,
+    precio: 4123.3775000000005,
     rubro: "Nylon",
     codigoFabrica: "VKM-36005",
     tipoModificacion: "",
@@ -2306,7 +2306,7 @@ export const listaDeProductos = [
   {
     id: 85467,
     nombre: "DISTRIBUCION MOTOR 1.6 1.4 16V - 1.2",
-    precio: 6594.819,
+    precio: 7254.300900000001,
     rubro: "Acero",
     codigoFabrica: "VKM-16001",
     tipoModificacion: "",
@@ -2318,7 +2318,7 @@ export const listaDeProductos = [
   {
     id: 85468,
     nombre: "DISTRIBUCION POLEA FIJA (ENGRANAJE) 31MM",
-    precio: 9066.629,
+    precio: 9973.291900000002,
     rubro: "Acero",
     codigoFabrica: "VKM-26125",
     tipoModificacion: "",
@@ -2330,7 +2330,7 @@ export const listaDeProductos = [
   {
     id: 85469,
     nombre: "DISTRIBUCION POLEA FIJA (ENGRANAJE) 25MM",
-    precio: 9066.629,
+    precio: 9973.291900000002,
     rubro: "Acero",
     codigoFabrica: "VKM-26123",
     tipoModificacion: "",
@@ -2342,7 +2342,7 @@ export const listaDeProductos = [
   {
     id: 85470,
     nombre: "POLEA AUXILIAR SOPORTE",
-    precio: 6992.326,
+    precio: 7691.5586,
     rubro: "Acero",
     codigoFabrica: "VKM-36014",
     tipoModificacion: "",
@@ -2354,7 +2354,7 @@ export const listaDeProductos = [
   {
     id: 85471,
     nombre: "ALTERNADOR Y A/A MOTOR 2.8",
-    precio: 10442.586000000001,
+    precio: 11486.844600000002,
     rubro: "Nylon",
     codigoFabrica: "VKM-36017",
     tipoModificacion: "",
@@ -2366,7 +2366,7 @@ export const listaDeProductos = [
   {
     id: 85472,
     nombre: "POLEA DISTRIBUCION MOTOR 2.2 Y 2.5    8X76/83X30/32",
-    precio: 7920.000000000001,
+    precio: 8712.000000000002,
     rubro: "Nylon",
     codigoFabrica: 820004593,
     tipoModificacion: "M",
@@ -2378,7 +2378,7 @@ export const listaDeProductos = [
   {
     id: 85475,
     nombre: "DISTRIBUCION 30X61X31",
-    precio: 7217.188,
+    precio: 7938.906800000001,
     rubro: "Acero",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -2390,7 +2390,7 @@ export const listaDeProductos = [
   {
     id: 85476,
     nombre: "ALTERNADOR Y A/A 1.6 16V  10X60X27",
-    precio: 5964.398000000001,
+    precio: 6560.837800000002,
     rubro: "Nylon",
     codigoFabrica: "VKM-33100 F-124197",
     tipoModificacion: "",
@@ -2402,7 +2402,7 @@ export const listaDeProductos = [
   {
     id: 85480,
     nombre: "ALTERNADOR AIRE 8X70X23",
-    precio: 3709.3210000000004,
+    precio: 4080.253100000001,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -2414,7 +2414,7 @@ export const listaDeProductos = [
   {
     id: 85489,
     nombre: "ALTERNADOR RANGER 2,9     17X84X32",
-    precio: 3568.675,
+    precio: 3925.5425000000005,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -2426,7 +2426,7 @@ export const listaDeProductos = [
   {
     id: 85490,
     nombre: "ALTERNADOR Y A/A MOTOR 2.0 // 1.9 DIESEL - 2.0 SPORT",
-    precio: 6107.200000000001,
+    precio: 6717.920000000001,
     rubro: "Acero",
     codigoFabrica: "VKM-36016 F-122530",
     tipoModificacion: "",
@@ -2438,7 +2438,7 @@ export const listaDeProductos = [
   {
     id: "85490-2",
     nombre: "ALTERNADOR Y A/A MOTOR 2.0//1,9 DIESEL - 2,0 SPORT",
-    precio: 6809.077,
+    precio: 7489.984700000001,
     rubro: "Acero",
     codigoFabrica: "VKM-36016 F-122530",
     tipoModificacion: "",
@@ -2450,7 +2450,7 @@ export const listaDeProductos = [
   {
     id: 85491,
     nombre: "ALTERNADOR Y A/A  17X85X32",
-    precio: 3099.8110000000006,
+    precio: 3409.792100000001,
     rubro: "Nylon",
     codigoFabrica: "17X85X32",
     tipoModificacion: "",
@@ -2462,7 +2462,7 @@ export const listaDeProductos = [
   {
     id: 85503,
     nombre: "ALTERNADOR Y A/A MOTOR 4.9   17X90X32 CON PESTAÑA",
-    precio: 5593.544000000001,
+    precio: 6152.898400000001,
     rubro: "Nylon",
     codigoFabrica: "17X90X32/96",
     tipoModificacion: "",
@@ -2474,7 +2474,7 @@ export const listaDeProductos = [
   {
     id: 85504,
     nombre: "DISTRIBUCION FIJO 30X73X22",
-    precio: 8002.687000000001,
+    precio: 8802.955700000002,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -2486,7 +2486,7 @@ export const listaDeProductos = [
   {
     id: 85505,
     nombre: "ALTERNADOR VARIOS 17X54X26",
-    precio: 3242.866,
+    precio: 3567.1526000000003,
     rubro: "Nylon",
     codigoFabrica: "17X54X26",
     tipoModificacion: "",
@@ -2498,7 +2498,7 @@ export const listaDeProductos = [
   {
     id: "85505/3",
     nombre: "ALTERNADOR CHEROKEE   17X50X30",
-    precio: 5411.868,
+    precio: 5953.054800000001,
     rubro: "Acero",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -2510,7 +2510,7 @@ export const listaDeProductos = [
   {
     id: 85507,
     nombre: "ALTERNADOR AIRE 1.6",
-    precio: 3037.254,
+    precio: 3340.9794,
     rubro: "Nylon",
     codigoFabrica: "17X56X26",
     tipoModificacion: "",
@@ -2522,7 +2522,7 @@ export const listaDeProductos = [
   {
     id: 85508,
     nombre: "ALTERNADOR Y A/A MOTOR 2.5 17X76X25",
-    precio: 2748.7460000000005,
+    precio: 3023.6206000000006,
     rubro: "Nylon",
     codigoFabrica: "17X76X25",
     tipoModificacion: "",
@@ -2534,7 +2534,7 @@ export const listaDeProductos = [
   {
     id: 85509,
     nombre: "ALTERNADOR Y A/A MOTOR 1.4 17X50X32",
-    precio: 3975.554,
+    precio: 4373.1094,
     rubro: "Acero",
     codigoFabrica: "17X50X32",
     tipoModificacion: "",
@@ -2546,7 +2546,7 @@ export const listaDeProductos = [
   {
     id: 85510,
     nombre: "ALTERNADOR Y A/A MOTOR 1.6 17X55X26",
-    precio: 2370.5550000000003,
+    precio: 2607.6105000000007,
     rubro: "Nylon",
     codigoFabrica: "17X56X26",
     tipoModificacion: "",
@@ -2558,7 +2558,7 @@ export const listaDeProductos = [
   {
     id: 85511,
     nombre: "ALTERNADOR MOTOR 4.9 20X80X36",
-    precio: 4856.456,
+    precio: 5342.101600000001,
     rubro: "Nylon",
     codigoFabrica: "20X80X36",
     tipoModificacion: "",
@@ -2570,7 +2570,7 @@ export const listaDeProductos = [
   {
     id: 85512,
     nombre: "ALTERNADOR Y A/A 1.4 TDCI - 1.4 - 1.6 TDCI  10X60X45,50",
-    precio: 6006.7480000000005,
+    precio: 6607.422800000001,
     rubro: "Nylon",
     codigoFabrica: "VKM-33044 F-123934",
     tipoModificacion: "",
@@ -2582,7 +2582,7 @@ export const listaDeProductos = [
   {
     id: 85513,
     nombre: "ALTERNADOR AIRE 17X55X26",
-    precio: 3121.228,
+    precio: 3433.3508,
     rubro: "Nylon",
     codigoFabrica: "17X55X26",
     tipoModificacion: "",
@@ -2594,7 +2594,7 @@ export const listaDeProductos = [
   {
     id: 85514,
     nombre: "DISTRIBUCION FIJO MOTOR 1.4TDCI - 1.6TDCI - 1.4 10X60X30",
-    precio: 6279.856000000001,
+    precio: 6907.841600000002,
     rubro: "Nylon",
     codigoFabrica: "VKM-23140 F-123906",
     tipoModificacion: "",
@@ -2605,8 +2605,8 @@ export const listaDeProductos = [
   },
   {
     id: 85515,
-    nombre: "",
-    precio: 3620.0340000000006,
+    nombre: 85515,
+    precio: 3982.037400000001,
     rubro: "Varios",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -2618,7 +2618,7 @@ export const listaDeProductos = [
   {
     id: 85516,
     nombre: "DISTRIBUCION  2.0 16V",
-    precio: 7571.146000000001,
+    precio: 8328.260600000001,
     rubro: "Nylon",
     codigoFabrica: "VKM-23220",
     tipoModificacion: "A",
@@ -2639,7 +2639,7 @@ export const listaDeProductos = [
   {
     id: 85517,
     nombre: "ALTERNADOR CLIO II      17X55X23",
-    precio: 3285.898,
+    precio: 3614.4878000000003,
     rubro: "Nylon",
     codigoFabrica: "17X55X23",
     tipoModificacion: "A",
@@ -2651,7 +2651,7 @@ export const listaDeProductos = [
   {
     id: 85518,
     nombre: "DISTRIBUCION MOTOR 2.3  TAUNUS",
-    precio: 7164.080000000001,
+    precio: 7880.488000000001,
     rubro: "Acero",
     codigoFabrica: "F-44573",
     tipoModificacion: "",
@@ -2663,7 +2663,7 @@ export const listaDeProductos = [
   {
     id: 85519,
     nombre: "DISTRIBUCION MOTOR 1.6  SIERRA",
-    precio: 7164.080000000001,
+    precio: 7880.488000000001,
     rubro: "Acero",
     codigoFabrica: "F-14000",
     tipoModificacion: "",
@@ -2675,7 +2675,7 @@ export const listaDeProductos = [
   {
     id: 85520,
     nombre: "TENSOR POLY V  ALASKAN  10X60X30 DOBLE RODAMIENTO",
-    precio: 6279.834,
+    precio: 6907.817400000001,
     rubro: "Nylon",
     codigoFabrica: "VKM-36087",
     tipoModificacion: "A",
@@ -2687,7 +2687,7 @@ export const listaDeProductos = [
   {
     id: 85525,
     nombre: "ALTERNADOR/ A.C MULT      3M5Q6A228AE",
-    precio: 4903.723000000001,
+    precio: 5394.095300000002,
     rubro: "Nylon",
     codigoFabrica: "VKM-34014",
     tipoModificacion: "",
@@ -2699,7 +2699,7 @@ export const listaDeProductos = [
   {
     id: 85530,
     nombre: "REPARACION TENSOR ALUMINIO 123787 PICO ROJO",
-    precio: 6661.6,
+    precio: 7327.760000000001,
     rubro: "Acero",
     codigoFabrica: "F-123787 REP",
     tipoModificacion: "",
@@ -2711,7 +2711,7 @@ export const listaDeProductos = [
   {
     id: 85531,
     nombre: "ALTERNADOR A/A 8X70X25 MWM",
-    precio: 5321.591000000001,
+    precio: 5853.750100000002,
     rubro: "Chapa",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -2723,7 +2723,7 @@ export const listaDeProductos = [
   {
     id: 85532,
     nombre: "ALTERNADOR A/A 17X70X28 EMBUTIDA MWM",
-    precio: 6008.101000000001,
+    precio: 6608.911100000001,
     rubro: "Chapa",
     codigoFabrica: 94722018,
     tipoModificacion: "",
@@ -2735,7 +2735,7 @@ export const listaDeProductos = [
   {
     id: 85537,
     nombre: "ACCESORIO POLEA",
-    precio: 3849.7030000000004,
+    precio: 4234.6733,
     rubro: "Chapa",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -2747,7 +2747,7 @@ export const listaDeProductos = [
   {
     id: 85562,
     nombre: "DISTRIBUCION FIJA MOTOR 1.4 Y 1.6 16V",
-    precio: 6653.009,
+    precio: 7318.3099,
     rubro: "Nylon",
     codigoFabrica: "VKM-25150",
     tipoModificacion: "",
@@ -2759,7 +2759,7 @@ export const listaDeProductos = [
   {
     id: 85647,
     nombre: "POLEA FIJA MOTOR 1.6 - 2.0 16V",
-    precio: 6653.009,
+    precio: 7318.3099,
     rubro: "Nylon",
     codigoFabrica: "VKM-25212",
     tipoModificacion: "",
@@ -2771,7 +2771,7 @@ export const listaDeProductos = [
   {
     id: 85751,
     nombre: "DISTRIBUCION FIJO MOTOR 2.0 16V",
-    precio: 5110.820000000001,
+    precio: 5621.902000000001,
     rubro: "Nylon",
     codigoFabrica: "VKM-25213",
     tipoModificacion: "",
@@ -2783,7 +2783,7 @@ export const listaDeProductos = [
   {
     id: 85752,
     nombre: "ACCESORIOS 17X70X25            JOURNEY",
-    precio: 2791.987,
+    precio: 3071.1857000000005,
     rubro: "Nylon",
     codigoFabrica: "17X70X25",
     tipoModificacion: "",
@@ -2795,7 +2795,7 @@ export const listaDeProductos = [
   {
     id: 85753,
     nombre: "ACCESORIOS 17X70X25            JOURNEY",
-    precio: 3513.4770000000003,
+    precio: 3864.8247000000006,
     rubro: "Chapa",
     codigoFabrica: "17X70X25",
     tipoModificacion: "",
@@ -2807,7 +2807,7 @@ export const listaDeProductos = [
   {
     id: 85758,
     nombre: "DISTRIBUCION FIJO MOTOR 1.8  17X56X25/14",
-    precio: 4730.858,
+    precio: 5203.943800000001,
     rubro: "Nylon",
     codigoFabrica: "VKM-04754",
     tipoModificacion: "",
@@ -2819,7 +2819,7 @@ export const listaDeProductos = [
   {
     id: 85759,
     nombre: "ALTERNADOR Y A/A  17X56X25/14",
-    precio: 5236.275000000001,
+    precio: 5759.902500000001,
     rubro: "Acero",
     codigoFabrica: "VKM-04754",
     tipoModificacion: "",
@@ -2831,7 +2831,7 @@ export const listaDeProductos = [
   {
     id: 85760,
     nombre: "DISTRIBUCION FIJO MOTOR 1.6-1.8 16V",
-    precio: 4880.568,
+    precio: 5368.6248000000005,
     rubro: "Nylon",
     codigoFabrica: "VKM-25152",
     tipoModificacion: "",
@@ -2843,7 +2843,7 @@ export const listaDeProductos = [
   {
     id: 85761,
     nombre: "ALTERNADOR Y A/A 8X56X25",
-    precio: 3899.0270000000005,
+    precio: 4288.929700000001,
     rubro: "Nylon",
     codigoFabrica: "8X56X25",
     tipoModificacion: "",
@@ -2855,7 +2855,7 @@ export const listaDeProductos = [
   {
     id: 85762,
     nombre: "POLEA V ALTERNADOR 15X80X19",
-    precio: 9743.58,
+    precio: 10717.938,
     rubro: "Acero",
     codigoFabrica: "15X80X19",
     tipoModificacion: "",
@@ -2867,7 +2867,7 @@ export const listaDeProductos = [
   {
     id: 85815,
     nombre: "POLY V 17X90X25",
-    precio: 3125.8150000000005,
+    precio: 3438.3965000000007,
     rubro: "Nylon",
     codigoFabrica: "VKM-33034",
     tipoModificacion: "",
@@ -2879,7 +2879,7 @@ export const listaDeProductos = [
   {
     id: 85816,
     nombre: "POLY V    17X90X23  FORD-F100",
-    precio: 3271.081,
+    precio: 3598.1891000000005,
     rubro: "Nylon",
     codigoFabrica: "17X90X23",
     tipoModificacion: "",
@@ -2891,7 +2891,7 @@ export const listaDeProductos = [
   {
     id: 85817,
     nombre: "ALTERNADOR     17X90X26",
-    precio: 3125.804,
+    precio: 3438.3844000000004,
     rubro: "Nylon",
     codigoFabrica: "17X90X26",
     tipoModificacion: "",
@@ -2903,7 +2903,7 @@ export const listaDeProductos = [
   {
     id: 85823,
     nombre: "ALTERNADOR Y A/A MOTOR 1.3 - 1.6 - 1.3SPI",
-    precio: 4416.368,
+    precio: 4858.004800000001,
     rubro: "Nylon",
     codigoFabrica: "VKM-32005",
     tipoModificacion: "",
@@ -2915,7 +2915,7 @@ export const listaDeProductos = [
   {
     id: 85826,
     nombre: "ALTERNADOR AIRE 20X80X17",
-    precio: 3454.3190000000004,
+    precio: 3799.750900000001,
     rubro: "Nylon",
     codigoFabrica: "VKM-32011 F-110790",
     tipoModificacion: "",
@@ -2927,7 +2927,7 @@ export const listaDeProductos = [
   {
     id: 85830,
     nombre: "ALTERNADOR MOTOR 1.6    20X80X27",
-    precio: 3620.1550000000007,
+    precio: 3982.170500000001,
     rubro: "Nylon",
     codigoFabrica: 631458,
     tipoModificacion: "",
@@ -2938,8 +2938,8 @@ export const listaDeProductos = [
   },
   {
     id: 85832,
-    nombre: "",
-    precio: 4456.892,
+    nombre: 85832,
+    precio: 4902.5812000000005,
     rubro: "Varios",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -2951,7 +2951,7 @@ export const listaDeProductos = [
   {
     id: 85890,
     nombre: "ALTERNADOR AIRE",
-    precio: 4782.371,
+    precio: 5260.6081,
     rubro: "Nylon",
     codigoFabrica: 337164,
     tipoModificacion: "",
@@ -2962,8 +2962,8 @@ export const listaDeProductos = [
   },
   {
     id: 85895,
-    nombre: "",
-    precio: 5444.549000000001,
+    nombre: 85895,
+    precio: 5989.0039000000015,
     rubro: "Varios",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -2975,7 +2975,7 @@ export const listaDeProductos = [
   {
     id: 86131,
     nombre: "DISTRIBUCION NAFTA",
-    precio: 8406.310000000001,
+    precio: 9246.941000000003,
     rubro: "Acero",
     codigoFabrica: "VKM-12101",
     tipoModificacion: "",
@@ -2987,7 +2987,7 @@ export const listaDeProductos = [
   {
     id: 86241,
     nombre: "DISTRIBUCION DIESEL 1.9",
-    precio: 8806.6,
+    precio: 9687.260000000002,
     rubro: "Acero",
     codigoFabrica: "VKM-13244",
     tipoModificacion: "",
@@ -2999,7 +2999,7 @@ export const listaDeProductos = [
   {
     id: 86270,
     nombre: "ALTERNADOR AIRE 17X76X23",
-    precio: 4389.462,
+    precio: 4828.408200000001,
     rubro: "Chapa",
     codigoFabrica: "F-1004961",
     tipoModificacion: "",
@@ -3011,7 +3011,7 @@ export const listaDeProductos = [
   {
     id: 86271,
     nombre: "ALTERNADOR AIRE 17X76X23",
-    precio: 2370.61,
+    precio: 2607.6710000000003,
     rubro: "Nylon",
     codigoFabrica: "F-1004961",
     tipoModificacion: "",
@@ -3022,8 +3022,8 @@ export const listaDeProductos = [
   },
   {
     id: 86320,
-    nombre: "",
-    precio: 8029.615000000001,
+    nombre: 86320,
+    precio: 8832.576500000001,
     rubro: "Varios",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -3035,7 +3035,7 @@ export const listaDeProductos = [
   {
     id: 86346,
     nombre: "ALTERNADOR AIRE  17X65X30 ( PARA SOP VKM-34702 )",
-    precio: 4248.409000000001,
+    precio: 4673.249900000001,
     rubro: "Chapa",
     codigoFabrica: "VKM-34702 REP",
     tipoModificacion: "",
@@ -3047,7 +3047,7 @@ export const listaDeProductos = [
   {
     id: 86348,
     nombre: "ALTERNADOR AIRE  17X65X30 ( PARA SOP VKM-34702 )",
-    precio: 2816.572,
+    precio: 3098.2292,
     rubro: "Nylon",
     codigoFabrica: "VKM-34702 REP",
     tipoModificacion: "",
@@ -3059,7 +3059,7 @@ export const listaDeProductos = [
   {
     id: 86349,
     nombre: "DISTRIBUCION",
-    precio: 4047.1530000000002,
+    precio: 4451.868300000001,
     rubro: "Chapa",
     codigoFabrica: "VKM-26211",
     tipoModificacion: "",
@@ -3071,7 +3071,7 @@ export const listaDeProductos = [
   {
     id: 86350,
     nombre: "DISTRIBUCION",
-    precio: 6358.660000000001,
+    precio: 6994.526000000002,
     rubro: "Acero",
     codigoFabrica: "VKM-26211",
     tipoModificacion: "",
@@ -3083,7 +3083,7 @@ export const listaDeProductos = [
   {
     id: 86351,
     nombre: "DISTRIBUCION",
-    precio: 3970.4390000000003,
+    precio: 4367.482900000001,
     rubro: "Nylon",
     codigoFabrica: "VKM-26211",
     tipoModificacion: "",
@@ -3095,7 +3095,7 @@ export const listaDeProductos = [
   {
     id: 86353,
     nombre: "ALTERNADOR 17X65X31",
-    precio: 5391.716000000001,
+    precio: 5930.887600000002,
     rubro: "Chapa",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -3107,7 +3107,7 @@ export const listaDeProductos = [
   {
     id: 86453,
     nombre: "DISTRIBUCION",
-    precio: 8406.310000000001,
+    precio: 9246.941000000003,
     rubro: "Acero",
     codigoFabrica: "VKM-22153",
     tipoModificacion: "",
@@ -3119,7 +3119,7 @@ export const listaDeProductos = [
   {
     id: 86508,
     nombre: "DISTRIBUCION",
-    precio: 15848.085000000001,
+    precio: 17432.893500000002,
     rubro: "Acero",
     codigoFabrica: "VKM-17405",
     tipoModificacion: "",
@@ -3131,7 +3131,7 @@ export const listaDeProductos = [
   {
     id: 86550,
     nombre: "ALTERNADOR    F-100 17X90X28",
-    precio: 3325.916,
+    precio: 3658.5076000000004,
     rubro: "Nylon",
     codigoFabrica: "17X90X28",
     tipoModificacion: "",
@@ -3143,7 +3143,7 @@ export const listaDeProductos = [
   {
     id: 86553,
     nombre: "BOMBA HIDRAULICA    17X60X18",
-    precio: 2762.782,
+    precio: 3039.0602000000003,
     rubro: "Nylon",
     codigoFabrica: "17X60X18",
     tipoModificacion: "",
@@ -3155,7 +3155,7 @@ export const listaDeProductos = [
   {
     id: 86554,
     nombre: "BOMBA HIDRAULICA    17X60X18",
-    precio: 3755.9500000000003,
+    precio: 4131.545000000001,
     rubro: "Chapa",
     codigoFabrica: "17X60X18",
     tipoModificacion: "",
@@ -3167,7 +3167,7 @@ export const listaDeProductos = [
   {
     id: 86555,
     nombre: "ALTERNADOR AIRE VARIOS",
-    precio: 2807.3430000000003,
+    precio: 3088.0773000000004,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -3179,7 +3179,7 @@ export const listaDeProductos = [
   {
     id: 86559,
     nombre: "ALTERNADOR AIRE VARIOS  17X60X22",
-    precio: 3543.3970000000004,
+    precio: 3897.736700000001,
     rubro: "Chapa",
     codigoFabrica: "17X60X22",
     tipoModificacion: "",
@@ -3191,7 +3191,7 @@ export const listaDeProductos = [
   {
     id: 86561,
     nombre: "BOMBA HIDRAULICA    17X60X22",
-    precio: 2762.782,
+    precio: 3039.0602000000003,
     rubro: "Nylon",
     codigoFabrica: "17X60X22",
     tipoModificacion: "",
@@ -3203,7 +3203,7 @@ export const listaDeProductos = [
   {
     id: 86562,
     nombre: "ALTERNADOR AIRE  17X60X23",
-    precio: 3821.917,
+    precio: 4204.108700000001,
     rubro: "Chapa",
     codigoFabrica: "17X60X23",
     tipoModificacion: "",
@@ -3215,7 +3215,7 @@ export const listaDeProductos = [
   {
     id: 86564,
     nombre: "ALTERNADOR AIRE    10X65X30/45",
-    precio: 5003.361000000001,
+    precio: 5503.697100000001,
     rubro: "Nylon",
     codigoFabrica: "10X65X30/14",
     tipoModificacion: "",
@@ -3227,7 +3227,7 @@ export const listaDeProductos = [
   {
     id: 86566,
     nombre: "ALTERNADOR AIRE  17X90X30  MOT 4.9",
-    precio: 3519.098,
+    precio: 3871.0078000000003,
     rubro: "Nylon",
     codigoFabrica: "17X90X30",
     tipoModificacion: "",
@@ -3239,7 +3239,7 @@ export const listaDeProductos = [
   {
     id: "86568 T",
     nombre: "ALTERNADOR AIRE CON TAPITA 20X80X23",
-    precio: 3639.4490000000005,
+    precio: 4003.393900000001,
     rubro: "Nylon",
     codigoFabrica: "VKM-32009",
     tipoModificacion: "",
@@ -3251,7 +3251,7 @@ export const listaDeProductos = [
   {
     id: 86570,
     nombre: "ALTERNADO AIRE   17X70X29   MOT ZETEC",
-    precio: 2991.8680000000004,
+    precio: 3291.054800000001,
     rubro: "Nylon",
     codigoFabrica: "17X70X29",
     tipoModificacion: "",
@@ -3263,7 +3263,7 @@ export const listaDeProductos = [
   {
     id: 86571,
     nombre: "ALTERNADO AIRE   17X70X29   MOT ZETEC",
-    precio: 3684.516,
+    precio: 4052.9676000000004,
     rubro: "Chapa",
     codigoFabrica: "17X70X29",
     tipoModificacion: "",
@@ -3275,7 +3275,7 @@ export const listaDeProductos = [
   {
     id: 86600,
     nombre: "ALTERNADOR AIRE  17X60X23",
-    precio: 3258.0240000000003,
+    precio: 3583.826400000001,
     rubro: "Nylon",
     codigoFabrica: "17X60X23",
     tipoModificacion: "",
@@ -3287,7 +3287,7 @@ export const listaDeProductos = [
   {
     id: 86668,
     nombre: "ALTERNADOR AIRE  ( DOBLE RUL) 10X100X29",
-    precio: 11942.128,
+    precio: 13136.340800000002,
     rubro: "Nylon",
     codigoFabrica: "VKM-32007",
     tipoModificacion: "",
@@ -3299,7 +3299,7 @@ export const listaDeProductos = [
   {
     id: 86900,
     nombre: "DISTRIBUCION",
-    precio: 5747.841000000001,
+    precio: 6322.625100000002,
     rubro: "Chapa",
     codigoFabrica: "VKM-11000",
     tipoModificacion: "",
@@ -3311,7 +3311,7 @@ export const listaDeProductos = [
   {
     id: 86912,
     nombre: "DISTRIBUCION",
-    precio: 6097.278,
+    precio: 6707.005800000001,
     rubro: "Chapa",
     codigoFabrica: "VKM-11010",
     tipoModificacion: "",
@@ -3323,7 +3323,7 @@ export const listaDeProductos = [
   {
     id: 86915,
     nombre: "DISTRIBUCION 1.6  10X64X29",
-    precio: 5352.501,
+    precio: 5887.7511,
     rubro: "Nylon",
     codigoFabrica: "VKM-80000",
     tipoModificacion: "",
@@ -3335,7 +3335,7 @@ export const listaDeProductos = [
   {
     id: 87010,
     nombre: "POLEA COMPRESOR M. BENZ 1620/22 (564583)",
-    precio: 9008.978000000001,
+    precio: 9909.875800000002,
     rubro: "Acero",
     codigoFabrica: "VKM-04897",
     tipoModificacion: "",
@@ -3347,7 +3347,7 @@ export const listaDeProductos = [
   {
     id: "87040-N",
     nombre: "DISTRIBUCION 25X67X34 NYLON DUCATO 2,8 - 2,5",
-    precio: 6988.861000000001,
+    precio: 7687.747100000001,
     rubro: "Nylon",
     codigoFabrica: "VKM-12380",
     tipoModificacion: "",
@@ -3359,7 +3359,7 @@ export const listaDeProductos = [
   {
     id: 87040,
     nombre: "DISTRIBUCION   25X67X34",
-    precio: 7804.302000000001,
+    precio: 8584.732200000002,
     rubro: "Acero",
     codigoFabrica: "VKM-12380",
     tipoModificacion: "",
@@ -3371,7 +3371,7 @@ export const listaDeProductos = [
   {
     id: 87098,
     nombre: "DISTRIBUCION  MOT 1.7",
-    precio: 8406.288,
+    precio: 9246.9168,
     rubro: "Acero",
     codigoFabrica: "VKM-22151",
     tipoModificacion: "",
@@ -3383,7 +3383,7 @@ export const listaDeProductos = [
   {
     id: 87196,
     nombre: "ALTERNADOR NEON   17X70X19 VARIOS",
-    precio: 2940.157,
+    precio: 3234.1727000000005,
     rubro: "Nylon",
     codigoFabrica: "17X70X19",
     tipoModificacion: "",
@@ -3395,7 +3395,7 @@ export const listaDeProductos = [
   {
     id: 87197,
     nombre: "ALTERNADOR NEON   17X70X19 VARIOS",
-    precio: 3623.1580000000004,
+    precio: 3985.4738000000007,
     rubro: "Chapa",
     codigoFabrica: "17X70X19",
     tipoModificacion: "",
@@ -3407,7 +3407,7 @@ export const listaDeProductos = [
   {
     id: 87320,
     nombre: "DISTRIBUCION  25X70X28",
-    precio: 5649.292,
+    precio: 6214.221200000001,
     rubro: "Nylon",
     codigoFabrica: "VKM-12012",
     tipoModificacion: "",
@@ -3419,7 +3419,7 @@ export const listaDeProductos = [
   {
     id: 87335,
     nombre: "DISTRIBUCION 25X60X27",
-    precio: 5649.292,
+    precio: 6214.221200000001,
     rubro: "Nylon",
     codigoFabrica: "VKM-12100",
     tipoModificacion: "",
@@ -3431,7 +3431,7 @@ export const listaDeProductos = [
   {
     id: 87530,
     nombre: "DISTRIBUCION  25X70X28",
-    precio: 7640.622000000001,
+    precio: 8404.684200000002,
     rubro: "Acero",
     codigoFabrica: "VKM-12012",
     tipoModificacion: "",
@@ -3443,7 +3443,7 @@ export const listaDeProductos = [
   {
     id: 87581,
     nombre: "ALTERNADOR/ A.ACONDICIONADO   8X65X23",
-    precio: 4382.037,
+    precio: 4820.2407,
     rubro: "Nylon",
     codigoFabrica: "VKM-32031",
     tipoModificacion: "",
@@ -3455,7 +3455,7 @@ export const listaDeProductos = [
   {
     id: 87582,
     nombre: "ALTERNADOR 17X65X23",
-    precio: 2208.7450000000003,
+    precio: 2429.6195000000007,
     rubro: "Nylon",
     codigoFabrica: "17X65X23",
     tipoModificacion: "A",
@@ -3467,7 +3467,7 @@ export const listaDeProductos = [
   {
     id: 87590,
     nombre: "10X60X26",
-    precio: 4584.0960000000005,
+    precio: 5042.505600000001,
     rubro: "Chapa",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -3479,7 +3479,7 @@ export const listaDeProductos = [
   {
     id: 87592,
     nombre: "10X65X26",
-    precio: 4654.463000000001,
+    precio: 5119.909300000001,
     rubro: "Chapa",
     codigoFabrica: "F-122332",
     tipoModificacion: "",
@@ -3491,7 +3491,7 @@ export const listaDeProductos = [
   {
     id: 87583,
     nombre: "ALTERNADOR 17X65X23",
-    precio: 3755.9500000000003,
+    precio: 4131.545000000001,
     rubro: "Chapa",
     codigoFabrica: "17X65X23",
     tipoModificacion: "",
@@ -3503,7 +3503,7 @@ export const listaDeProductos = [
   {
     id: 87584,
     nombre: "ALTERNADOR  17X65X24",
-    precio: 3684.516,
+    precio: 4052.9676000000004,
     rubro: "Nylon",
     codigoFabrica: "17X65X24",
     tipoModificacion: "",
@@ -3515,7 +3515,7 @@ export const listaDeProductos = [
   {
     id: 87585,
     nombre: "ALTERNADOR AIRE   17X65X22",
-    precio: 3187.1620000000003,
+    precio: 3505.8782000000006,
     rubro: "Nylon",
     codigoFabrica: "17X65X22",
     tipoModificacion: "",
@@ -3527,7 +3527,7 @@ export const listaDeProductos = [
   {
     id: 87593,
     nombre: "ALTERNADOR AIRE     10X65X26",
-    precio: 4448.125,
+    precio: 4892.9375,
     rubro: "Chapa",
     codigoFabrica: "VKM-33037",
     tipoModificacion: "",
@@ -3539,7 +3539,7 @@ export const listaDeProductos = [
   {
     id: 87610,
     nombre: "ALTERNADOR AIRE 17X65X24",
-    precio: 3739.7470000000003,
+    precio: 4113.721700000001,
     rubro: "Chapa",
     codigoFabrica: "17X65X24",
     tipoModificacion: "",
@@ -3551,7 +3551,7 @@ export const listaDeProductos = [
   {
     id: 87625,
     nombre: "ALTERNADOR AIRE  17X65X29  ( 156) 17X65X29",
-    precio: 3674.77,
+    precio: 4042.2470000000003,
     rubro: "Nylon",
     codigoFabrica: "VKM-32026 17X65X29",
     tipoModificacion: "",
@@ -3563,7 +3563,7 @@ export const listaDeProductos = [
   {
     id: 87626,
     nombre: "ALTERNADOR AIRE  17X65X29  ( 156) 17X65X29",
-    precio: 4248.409000000001,
+    precio: 4673.249900000001,
     rubro: "Chapa",
     codigoFabrica: "VKM-32026 17X65X29",
     tipoModificacion: "",
@@ -3575,7 +3575,7 @@ export const listaDeProductos = [
   {
     id: 87655,
     nombre: "ALTERNADOR   17X60X29  MOT ZETEC 1.8",
-    precio: 4055.0730000000003,
+    precio: 4460.5803000000005,
     rubro: "Chapa",
     codigoFabrica: "17X60X29",
     tipoModificacion: "",
@@ -3587,7 +3587,7 @@ export const listaDeProductos = [
   {
     id: 87656,
     nombre: "ALTERNADOR   17X60X29  MOT ZETEC 1.8",
-    precio: 2885.3,
+    precio: 3173.8300000000004,
     rubro: "Nylon",
     codigoFabrica: "17X60X29",
     tipoModificacion: "",
@@ -3599,7 +3599,7 @@ export const listaDeProductos = [
   {
     id: 87657,
     nombre: "ALTERNADOR   17X60X29  MOT ZETEC 1.8",
-    precio: 4055.0730000000003,
+    precio: 4460.5803000000005,
     rubro: "Chapa",
     codigoFabrica: "17X60X29",
     tipoModificacion: "",
@@ -3611,7 +3611,7 @@ export const listaDeProductos = [
   {
     id: 87700,
     nombre: "ALTERNADOR AIRE MOT TDCI",
-    precio: 2980.197,
+    precio: 3278.2167000000004,
     rubro: "Nylon",
     codigoFabrica: "F-230025",
     tipoModificacion: "",
@@ -3623,7 +3623,7 @@ export const listaDeProductos = [
   {
     id: 87749,
     nombre: "ALTERNADOR POLEA V ROSCA 8MM",
-    precio: 5606.359,
+    precio: 6166.994900000001,
     rubro: "Chapa",
     codigoFabrica: 1270001,
     tipoModificacion: "",
@@ -3635,7 +3635,7 @@ export const listaDeProductos = [
   {
     id: 87750,
     nombre: "ALTERNADOR POLEA V ROSCA 10,00MM",
-    precio: 5606.359,
+    precio: 6166.994900000001,
     rubro: "Chapa",
     codigoFabrica: 1270002,
     tipoModificacion: "",
@@ -3647,7 +3647,7 @@ export const listaDeProductos = [
   {
     id: 87765,
     nombre: "ALTERNADOR AIRE   17X70X28",
-    precio: 3077.9100000000003,
+    precio: 3385.7010000000005,
     rubro: "Nylon",
     codigoFabrica: "17X70X28",
     tipoModificacion: "",
@@ -3659,7 +3659,7 @@ export const listaDeProductos = [
   {
     id: 87770,
     nombre: "ALTERNADOR AIRE",
-    precio: 4205.828,
+    precio: 4626.410800000001,
     rubro: "Nylon",
     codigoFabrica: "VKM-23241",
     tipoModificacion: "",
@@ -3671,7 +3671,7 @@ export const listaDeProductos = [
   {
     id: 87785,
     nombre: "ALTERNADOR AIRE  17X76X23",
-    precio: 4524.762000000001,
+    precio: 4977.238200000001,
     rubro: "Chapa",
     codigoFabrica: "F-1004961",
     tipoModificacion: "",
@@ -3683,7 +3683,7 @@ export const listaDeProductos = [
   {
     id: 87788,
     nombre: "ALTERNADOR AIRE  17X76X26",
-    precio: 2370.5550000000003,
+    precio: 2607.6105000000007,
     rubro: "Nylon",
     codigoFabrica: "17X76X26",
     tipoModificacion: "",
@@ -3695,7 +3695,7 @@ export const listaDeProductos = [
   {
     id: 87789,
     nombre: "ALTERNADOR AIRE  MOT 1.6 1.8 17X76X26",
-    precio: 3555.244,
+    precio: 3910.7684000000004,
     rubro: "Chapa",
     codigoFabrica: "17X76X26",
     tipoModificacion: "",
@@ -3707,7 +3707,7 @@ export const listaDeProductos = [
   {
     id: "87789-8",
     nombre: "ALTERNADOR AIRE MOT 1,6 1,8      8X76X26",
-    precio: 4235.286000000001,
+    precio: 4658.8146000000015,
     rubro: "Chapa",
     codigoFabrica: "8X76X26",
     tipoModificacion: "A",
@@ -3719,7 +3719,7 @@ export const listaDeProductos = [
   {
     id: 87790,
     nombre: "ALTERNADOR AIRE  17X76X31          EMBUTIDA",
-    precio: 5046.305,
+    precio: 5550.9355000000005,
     rubro: "Chapa",
     codigoFabrica: "305-145299",
     tipoModificacion: "",
@@ -3731,7 +3731,7 @@ export const listaDeProductos = [
   {
     id: 87795,
     nombre: "ALTERNADOR AIRE  17X77X26",
-    precio: 2896.8500000000004,
+    precio: 3186.5350000000008,
     rubro: "Nylon",
     codigoFabrica: "17X77X26",
     tipoModificacion: "",
@@ -3743,7 +3743,7 @@ export const listaDeProductos = [
   {
     id: 87905,
     nombre: "DISTRIBUCION   10X60X30 DOBLE RUL",
-    precio: 6743.649,
+    precio: 7418.013900000001,
     rubro: "Nylon",
     codigoFabrica: "F-123906",
     tipoModificacion: "",
@@ -3755,7 +3755,7 @@ export const listaDeProductos = [
   {
     id: 87909,
     nombre: "DISTRIBUCION FIJAO MIT L200 2,5 DIESEL",
-    precio: 9228.219000000001,
+    precio: 10151.040900000002,
     rubro: "Acero",
     codigoFabrica: "VKM-85156",
     tipoModificacion: "",
@@ -3767,7 +3767,7 @@ export const listaDeProductos = [
   {
     id: 87910,
     nombre: 87910,
-    precio: 6731.098000000001,
+    precio: 7404.207800000002,
     rubro: "Varios",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -3779,7 +3779,7 @@ export const listaDeProductos = [
   {
     id: 87911,
     nombre: "ALTERNADOR AIRE   17X50X32",
-    precio: 4238.828,
+    precio: 4662.710800000001,
     rubro: "Acero",
     codigoFabrica: "17X50X32",
     tipoModificacion: "",
@@ -3791,7 +3791,7 @@ export const listaDeProductos = [
   {
     id: 87912,
     nombre: "ALTERNADOR AIRE  17X70X25",
-    precio: 3097.6440000000002,
+    precio: 3407.4084000000007,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -3803,7 +3803,7 @@ export const listaDeProductos = [
   {
     id: 87918,
     nombre: "04C145299B      REPUESTO- POLO MSI - UP 1.0",
-    precio: 8569.451000000001,
+    precio: 9426.396100000002,
     rubro: "Nylon",
     codigoFabrica: "04C145299B REPUESTO",
     tipoModificacion: "A",
@@ -3815,7 +3815,7 @@ export const listaDeProductos = [
   {
     id: 88000,
     nombre: 88000,
-    precio: 4202.209000000001,
+    precio: 4622.429900000001,
     rubro: "Varios",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -3827,7 +3827,7 @@ export const listaDeProductos = [
   {
     id: 88031,
     nombre: "ALTERNADOR AIRE  17X90X29",
-    precio: 3428.8650000000002,
+    precio: 3771.7515000000008,
     rubro: "Nylon",
     codigoFabrica: "17X90X29",
     tipoModificacion: "",
@@ -3839,7 +3839,7 @@ export const listaDeProductos = [
   {
     id: 88032,
     nombre: "ALTERNADOR AIRE  17X90X29",
-    precio: 3298.922,
+    precio: 3628.8142000000003,
     rubro: "Nylon",
     codigoFabrica: "17X90X29",
     tipoModificacion: "",
@@ -3851,7 +3851,7 @@ export const listaDeProductos = [
   {
     id: 88033,
     nombre: "ALTERNADOR MULTICANAL",
-    precio: 4023.4370000000004,
+    precio: 4425.780700000001,
     rubro: "Nylon",
     codigoFabrica: 377145299,
     tipoModificacion: "",
@@ -3863,7 +3863,7 @@ export const listaDeProductos = [
   {
     id: 88054,
     nombre: "DISTRIBUCION  25X60X27",
-    precio: 6252.455000000001,
+    precio: 6877.700500000002,
     rubro: "Chapa",
     codigoFabrica: "VKM-12100",
     tipoModificacion: "",
@@ -3875,7 +3875,7 @@ export const listaDeProductos = [
   {
     id: 88057,
     nombre: "DISTRIBUCION  25X60X29",
-    precio: 6252.455000000001,
+    precio: 6877.700500000002,
     rubro: "Chapa",
     codigoFabrica: "VKM-12100 633272",
     tipoModificacion: "",
@@ -3887,7 +3887,7 @@ export const listaDeProductos = [
   {
     id: 91010,
     nombre: "ALTERNADOR / AIRE   8X70X25    BMW",
-    precio: 4809.376,
+    precio: 5290.3136,
     rubro: "Nylon",
     codigoFabrica: "8X70X25",
     tipoModificacion: "",
@@ -3899,7 +3899,7 @@ export const listaDeProductos = [
   {
     id: 93562,
     nombre: "DISTRIBUCION REGATTA  MOT 2.0 AGUJERO 10MM",
-    precio: 8406.310000000001,
+    precio: 9246.941000000003,
     rubro: "Acero",
     codigoFabrica: "VKM-12005",
     tipoModificacion: "",
@@ -3911,7 +3911,7 @@ export const listaDeProductos = [
   {
     id: 97792,
     nombre: "POLY V   17X76X21",
-    precio: 3483.3590000000004,
+    precio: 3831.694900000001,
     rubro: "Nylon",
     codigoFabrica: "17X76X21",
     tipoModificacion: "",
@@ -3923,7 +3923,7 @@ export const listaDeProductos = [
   {
     id: 97793,
     nombre: "ALTERNADOR AIRE  17X76X31 EMBUTIDA",
-    precio: 4057.361000000001,
+    precio: 4463.097100000001,
     rubro: "Chapa",
     codigoFabrica: "302-145299",
     tipoModificacion: "",
@@ -3935,7 +3935,7 @@ export const listaDeProductos = [
   {
     id: 97795,
     nombre: "ALTERNADOR AIRE  17X76X24  MOT 1.4",
-    precio: 3801.4240000000004,
+    precio: 4181.566400000001,
     rubro: "Chapa",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -3947,7 +3947,7 @@ export const listaDeProductos = [
   {
     id: 97796,
     nombre: "ALTERNADOR AIRE  17X76X24  MOT 1.4",
-    precio: 3180.9030000000002,
+    precio: 3498.9933000000005,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -3959,7 +3959,7 @@ export const listaDeProductos = [
   {
     id: 97797,
     nombre: "ALTERNADOR AIRE 17X76X32 MOT 3.0 ACERO",
-    precio: 23090.155000000002,
+    precio: 25399.170500000004,
     rubro: "Acero",
     codigoFabrica: "VKM-61020",
     tipoModificacion: "",
@@ -3971,7 +3971,7 @@ export const listaDeProductos = [
   {
     id: "97797-10",
     nombre: "ALTERNADOR AIRE 10X76X32 MOT 3.0     ACERO",
-    precio: 24272.259000000002,
+    precio: 26699.484900000003,
     rubro: "Acero",
     codigoFabrica: "VKM-61020/10",
     tipoModificacion: "",
@@ -3983,7 +3983,7 @@ export const listaDeProductos = [
   {
     id: "97798-10",
     nombre: "ALTERNADOR AIRE  MOT 3.0 10X76X32  NYLON",
-    precio: 21643.512,
+    precio: 23807.8632,
     rubro: "Nylon",
     codigoFabrica: "VKM-61020/10",
     tipoModificacion: "",
@@ -3995,7 +3995,7 @@ export const listaDeProductos = [
   {
     id: 97799,
     nombre: "ALTERNADOR AIRE  MOT 3.0 17X76X32  NYLON",
-    precio: 22811.019000000004,
+    precio: 25092.120900000005,
     rubro: "Nylon",
     codigoFabrica: "VKM-61020",
     tipoModificacion: "",
@@ -4007,7 +4007,7 @@ export const listaDeProductos = [
   {
     id: 97800,
     nombre: "DISTRIBUCION  25X60X27",
-    precio: 7456.185000000001,
+    precio: 8201.803500000002,
     rubro: "Acero",
     codigoFabrica: "VKM-12100",
     tipoModificacion: "",
@@ -4019,7 +4019,7 @@ export const listaDeProductos = [
   {
     id: 97801,
     nombre: "VARIOS",
-    precio: 2820.4110000000005,
+    precio: 3102.452100000001,
     rubro: "Varios",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -4031,7 +4031,7 @@ export const listaDeProductos = [
   {
     id: 97802,
     nombre: "ALTERNADOR AIRE MOT 3.0     10X70X32 EMBUTIDA",
-    precio: 13837.274000000001,
+    precio: 15221.001400000003,
     rubro: "Chapa",
     codigoFabrica: "VKM-61025",
     tipoModificacion: "",
@@ -4043,7 +4043,7 @@ export const listaDeProductos = [
   {
     id: 97810,
     nombre: "DISTRIBUCION  25X56X29  SUPER EUROPA",
-    precio: 7456.185000000001,
+    precio: 8201.803500000002,
     rubro: "Acero",
     codigoFabrica: 633280,
     tipoModificacion: "",
@@ -4055,7 +4055,7 @@ export const listaDeProductos = [
   {
     id: 97820,
     nombre: "DISTRIBUCION  25X60X29",
-    precio: 7456.185000000001,
+    precio: 8201.803500000002,
     rubro: "Acero",
     codigoFabrica: "VKM-12100 633272",
     tipoModificacion: "",
@@ -4067,7 +4067,7 @@ export const listaDeProductos = [
   {
     id: 97825,
     nombre: "ALTERNADOR AIRE   17X61X25",
-    precio: 3401.3100000000004,
+    precio: 3741.4410000000007,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -4079,7 +4079,7 @@ export const listaDeProductos = [
   {
     id: 97830,
     nombre: "ALTERNADOR AIRE  17X63X22  ( PARA SOP 35260 )",
-    precio: 3643.8490000000006,
+    precio: 4008.233900000001,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -4091,7 +4091,7 @@ export const listaDeProductos = [
   {
     id: 97842,
     nombre: "ALTERNADOR  10X65X26  VARIOS",
-    precio: 3399.6270000000004,
+    precio: 3739.589700000001,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -4103,7 +4103,7 @@ export const listaDeProductos = [
   {
     id: 97850,
     nombre: "ALTERNADOR / AIRE ACIONDICIONADO 1.6 EMBUTIDA",
-    precio: 3650.9880000000003,
+    precio: 4016.0868000000005,
     rubro: "Chapa",
     codigoFabrica: "VKM-34034",
     tipoModificacion: "",
@@ -4115,7 +4115,7 @@ export const listaDeProductos = [
   {
     id: "85468-2",
     nombre: "DISTRIBUCION POLEA FIJA (ENGRANAJE) DOBLE RODAMIENTO",
-    precio: 9724.693,
+    precio: 10697.1623,
     rubro: "Acero",
     codigoFabrica: "VKM-26125",
     tipoModificacion: "",
@@ -4508,7 +4508,7 @@ export const listaDeProductos = [
   {
     id: 99005,
     nombre: "POLEA SCANIA 8 VIAS   17X65X29     MULTICANAL",
-    precio: 6634.067000000001,
+    precio: 7297.473700000001,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -4520,7 +4520,7 @@ export const listaDeProductos = [
   {
     id: 99010,
     nombre: "POLEA ALTERNADOR SCANIA 20X74X32  MULTICANAL",
-    precio: 11383.68,
+    precio: 12522.048,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -4532,7 +4532,7 @@ export const listaDeProductos = [
   {
     id: 10150,
     nombre: "KITS FOSTERS F-02152   MOT 1.7 DISTRIBUCION",
-    precio: 20921.670000000002,
+    precio: 23013.837000000003,
     rubro: "Kits Distribución",
     codigoFabrica: "VKMA-02152-A",
     tipoModificacion: "",
@@ -4580,7 +4580,7 @@ export const listaDeProductos = [
   {
     id: 10400,
     nombre: "KITS FOSTERS  F-02300  MOT 2.3 DISTRIBUCION",
-    precio: 13444.420000000002,
+    precio: 14788.862000000003,
     rubro: "Kits Distribución",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -4604,7 +4604,7 @@ export const listaDeProductos = [
   {
     id: 10010,
     nombre: "KITS FOSTERS F-05012 DISTRIBUCION",
-    precio: 13152.161000000002,
+    precio: 14467.377100000003,
     rubro: "Kits Distribución",
     codigoFabrica: "VKMA-05012-A",
     tipoModificacion: "",
@@ -4616,7 +4616,7 @@ export const listaDeProductos = [
   {
     id: 10015,
     nombre: "KITS FOSTERS DISTRIBUCION MOT 1.6-1.4 NAFTA DISTRIBUCION",
-    precio: 12665.059000000001,
+    precio: 13931.564900000003,
     rubro: "Kits Distribución",
     codigoFabrica: "VKMA-05121-A",
     tipoModificacion: "",
@@ -4808,7 +4808,7 @@ export const listaDeProductos = [
   {
     id: 10460,
     nombre: "KITS FOSTERS F-1010  DIESEL DISTRIBUCION",
-    precio: 11447.249000000002,
+    precio: 12591.973900000003,
     rubro: "Kits Distribución",
     codigoFabrica: "VKMA-01010-A",
     tipoModificacion: "",
@@ -4820,7 +4820,7 @@ export const listaDeProductos = [
   {
     id: 10220,
     nombre: "KITS FOSTERS F-1011  DIESEL DISTRIBUCION",
-    precio: 15685.175000000001,
+    precio: 17253.6925,
     rubro: "Kits Distribución",
     codigoFabrica: "VKMA-01011-A",
     tipoModificacion: "",
@@ -4832,7 +4832,7 @@ export const listaDeProductos = [
   {
     id: 10230,
     nombre: "KITS FOSTERS F-1013  MOT 1.9 DISTRIBUCION",
-    precio: 18510.436999999998,
+    precio: 20361.4807,
     rubro: "Kits Distribución",
     codigoFabrica: "VKMA-01013-A",
     tipoModificacion: "",
@@ -4844,7 +4844,7 @@ export const listaDeProductos = [
   {
     id: 10240,
     nombre: "KITS FOSTERS F-1106 FOX DISTRIBUCION",
-    precio: 16074.850000000002,
+    precio: 17682.335000000003,
     rubro: "Kits Distribución",
     codigoFabrica: "VKMA-01106-A",
     tipoModificacion: "",
@@ -5028,7 +5028,7 @@ export const listaDeProductos = [
   {
     id: 99000,
     nombre: "ACCESORIOS 20X74X32 SCANIA",
-    precio: 9140.032000000001,
+    precio: 10054.035200000002,
     rubro: "Nylon",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -5036,6 +5036,42 @@ export const listaDeProductos = [
     modelos: [],
     linkImagen:
       "http://drive.google.com/uc?export=view&id=1PfBzptHnwOUtww0j7pSTSpW5RuPUZfuX",
+  },
+  {
+    id: 85423,
+    nombre: "ACCESORIOS 8X60X26 CHAPA EMBUTIDA",
+    precio: 0,
+    rubro: "Chapa",
+    codigoFabrica: "",
+    tipoModificacion: "",
+    marca: "",
+    modelos: ["VENTO - GACEL"],
+    linkImagen:
+      "http://drive.google.com/uc?export=view&id=1N1r7HhGgqVX3j6Xmgp4Buyi_0WMjf1KS",
+  },
+  {
+    id: 85424,
+    nombre: "ACCESORIOS 10X60X26 CHAPA EMBUTIDA",
+    precio: 0,
+    rubro: "CHAPA",
+    codigoFabrica: "",
+    tipoModificacion: "",
+    marca: "",
+    modelos: ["VENTO - GACEL"],
+    linkImagen:
+      "http://drive.google.com/uc?export=view&id=1pC8MZs9nlxLJhZl2NvPfAIIX8MVil1Pu",
+  },
+  {
+    id: 97831,
+    nombre: "ALTERNADOR AIRE  17X63X29  ( PARA SOPORTE 60016)",
+    precio: 0,
+    rubro: "Nylon",
+    codigoFabrica: "VKM-60016",
+    tipoModificacion: "",
+    marca: "",
+    modelos: ["SONIC", "TRACKER", "CRUZE"],
+    linkImagen:
+      "http://drive.google.com/uc?export=view&id=1vahq8COAO_AQ5MOB3z6gPUxbP_zz7Nmr",
   },
 ];
 
