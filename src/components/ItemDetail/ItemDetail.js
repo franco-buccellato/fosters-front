@@ -8,7 +8,7 @@ import UsuarioContext from '../Context/UsuarioContext';
 
 const ItemDetail = ({id, nombre, marca, modelos, codigoFabrica, precio, linkImagen, stock}) => {
 
-    const { estaLogueado, esClienteDirecto} = useContext(UsuarioContext);
+    const { esClienteDirecto} = useContext(UsuarioContext);
 
     const {addItem} = useContext(CartContext);
 

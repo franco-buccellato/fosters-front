@@ -38,7 +38,7 @@ const Usuarios = () => {
                 console.log(err);
             }
         )
-        }, [tablaUsuarios]
+        }, [tablaUsuarios, usuario.nombre]
     )
 
     /* MODAL Ok*/

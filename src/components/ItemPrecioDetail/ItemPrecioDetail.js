@@ -6,7 +6,7 @@ import Button from 'react-bootstrap/Button'; */
 
 const ItemPrecioDetail = ({precioProducto}) => {
     
-    const {usuario, estaLogueado, esClienteDirecto, esClienteIndirecto} = useContext(UsuarioContext);
+    const {usuario, esClienteDirecto, esClienteIndirecto} = useContext(UsuarioContext);
     let descuentoFinal = usuario !== undefined ? usuario.descuento : 1;
 
     if(esClienteDirecto() && usuario.descuento === 0) {

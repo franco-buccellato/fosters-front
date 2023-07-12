@@ -1,5 +1,5 @@
 import './ItemPrecio.css';
-import { useContext, useEffect } from 'react';
+import { useContext } from 'react';
 import UsuarioContext from '../Context/UsuarioContext';
 
 const ItemPrecio = ({precioProducto}) => {
