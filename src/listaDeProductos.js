@@ -2,7 +2,7 @@ export const listaDeProductos = [
   {
     id: 10000,
     nombre: "ALTERNADOR AIRE  IVECO DAILY 70c17",
-    precio: 19317.444300000003,
+    precio: 19317.4443,
     rubro: "Acero",
     codigoFabrica: "F-552557",
     tipoModificacion: "A",
