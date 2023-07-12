@@ -5139,7 +5139,7 @@ export const getProductoById = (idProducto) => {
   return new Promise((resolve) => {
     setTimeout(() => {
       resolve(
-        listaDeProductos.find((unProducto) => unProducto.id == idProducto)
+        listaDeProductos.find((unProducto) => unProducto.id === idProducto)
       );
     }, 2000);
   });
