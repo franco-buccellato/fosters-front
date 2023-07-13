@@ -2,7 +2,7 @@ export const listaDeProductos = [
   {
     id: 10000,
     nombre: "ALTERNADOR AIRE  IVECO DAILY 70c17",
-    precio: 19317.4443,
+    precio: 19317.444300000003,
     rubro: "Acero",
     codigoFabrica: "F-552557",
     tipoModificacion: "A",
@@ -5040,7 +5040,7 @@ export const listaDeProductos = [
   {
     id: 85423,
     nombre: "ACCESORIOS 8X60X26 CHAPA EMBUTIDA",
-    precio: 0,
+    precio: 4380.5,
     rubro: "Chapa",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -5052,7 +5052,7 @@ export const listaDeProductos = [
   {
     id: 85424,
     nombre: "ACCESORIOS 10X60X26 CHAPA EMBUTIDA",
-    precio: 0,
+    precio: 4380.5,
     rubro: "CHAPA",
     codigoFabrica: "",
     tipoModificacion: "",
@@ -5064,7 +5064,7 @@ export const listaDeProductos = [
   {
     id: 97831,
     nombre: "ALTERNADOR AIRE  17X63X29  ( PARA SOPORTE 60016)",
-    precio: 0,
+    precio: 4205.9,
     rubro: "Nylon",
     codigoFabrica: "VKM-60016",
     tipoModificacion: "",
