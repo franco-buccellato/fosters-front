@@ -5090,6 +5090,7 @@ export const listaDeProductos = [
   }
 ];
 
+
 export const getProductos = (id, nombre, fabrica, marca, modelo) => {
   return new Promise((resolve) => {
     setTimeout(() => {
