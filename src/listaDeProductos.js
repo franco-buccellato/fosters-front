@@ -1790,7 +1790,7 @@ export const listaDeProductos = [
   {
     id: 85318,
     nombre: "DISTRIBUCION FIJO ( DOBLE ROD )",
-    precio: 7418.013900000001,
+    precio: 9449,
     rubro: "Nylon",
     codigoFabrica: "VKM-23256",
     tipoModificacion: "",
@@ -5072,6 +5072,21 @@ export const listaDeProductos = [
     modelos: ["SONIC", "TRACKER", "CRUZE"],
     linkImagen:
       "http://drive.google.com/uc?export=view&id=1vahq8COAO_AQ5MOB3z6gPUxbP_zz7Nmr",
+  },
+  {
+    id: 85319,
+    nombre: " ALTERNADOR AIRE CITROEN  PEUGEOT",
+    precio: 8991,
+    rubro: "Nylon",
+    codigoFabrica: "VKM-23246  F-122986,05",
+    tipoModificacion: "",
+    marca: "",
+    modelos: [
+      "Berlingo / Peugeot 206  207  306  406 Motor 2",
+      "0 HDI Diesel DW10",
+    ],
+    linkImagen:
+      "http://drive.google.com/uc?export=view&id=1SBz2QMzjxo31-sAvzRR21BpCNAY7ylpA",
   },
 ];
 
