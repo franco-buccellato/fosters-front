@@ -5075,7 +5075,7 @@ export const listaDeProductos = [
   },
   {
     id: 85319,
-    nombre: " ALTERNADOR AIRE CITROEN  PEUGEOT",
+    nombre: "ALTERNADOR AIRE CITROEN PEUGEOT",
     precio: 8991,
     rubro: "Nylon",
     codigoFabrica: "VKM-23246  F-122986,05",
@@ -5087,7 +5087,7 @@ export const listaDeProductos = [
     ],
     linkImagen:
       "http://drive.google.com/uc?export=view&id=1SBz2QMzjxo31-sAvzRR21BpCNAY7ylpA",
-  },
+  }
 ];
 
 export const getProductos = (id, nombre, fabrica, marca, modelo) => {
