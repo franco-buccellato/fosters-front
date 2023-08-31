@@ -5,13 +5,13 @@ module.exports = function(app) {
         '/api',
         createProxyMiddleware(
             {
-                target: 'http://localhost:5000/',
-                //target: 'http://fosters-app.azurewebsites.net/',
+                /* target: 'http://localhost:5000/', */
+                target: 'http://fosters-app.azurewebsites.net/',
                 changeOrigin: true,
                 ws: true,
                 onProxyReq: function(request) {
-                    //request.setHeader("origin", "http://fosters-app.azurewebsites.net/");
-                    request.setHeader("origin", "http://localhost:5000/");
+                    request.setHeader("origin", "http://fosters-app.azurewebsites.net/");
+                    //request.setHeader("origin", "http://localhost:5000/");
                 },
             }
         )
