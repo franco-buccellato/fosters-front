@@ -1,13 +1,15 @@
 import './SectionNovedades.css';
-import { getUltimosProductos } from '../../listaDeProductos';
+/* import { getUltimosProductos } from '../../listaDeProductos'; */
 import ItemNovedad from '../ItemNovedad/ItemNovedad';
 import { useEffect, useState } from 'react';
+import axios from 'axios';
 
 function SectionNovedades() {
 
     const [productos, setProductos] = useState([]);
+    const [productos2, setProductos2] = useState([]);
 
-    useEffect(
+/*     useEffect(
         () => {
             getUltimosProductos().then(
                 productos => {
@@ -15,6 +17,29 @@ function SectionNovedades() {
                 }
             )
         }
+    ) */
+
+    useEffect( 
+        () => {
+        axios.get(
+            '/api/productos/', 
+            {
+                params: {
+                }
+            }
+        )
+        .then(
+            res => {
+                console.log(res.data);
+                setProductos(res.data);
+            }
+        )
+        .catch(
+            err => {
+                console.log(err);
+            }
+        )
+        }, [productos2]
     )
 
     return (
@@ -23,7 +48,7 @@ function SectionNovedades() {
                 <h4>Últimos ingresos:</h4>
             </div>
             <div className="container-itemList">
-                {productos.map(producto => <ItemNovedad key={producto.id} {...producto}/>)}
+                {productos.slice(productos.length - 8).map(producto => <ItemNovedad key={producto.id} {...producto}/>)}
             </div>
         </div>
     )

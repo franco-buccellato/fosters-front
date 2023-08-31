@@ -1,10 +1,12 @@
 import './ItemListContainer.css';
 import ItemList from '../ItemList/ItemList';
 import { useState, useEffect } from 'react';
-import { getProductos, filtrarProductosSiHayFiltros } from '../../listaDeProductos';
+import { filtrarProductosSiHayFiltros } from '../../listaDeProductos';
 import { useParams } from 'react-router-dom';
 import SectionNovedades from '../SectionNovedades/SectionNovedades';
 import Background from '../Background/Background';
+
+import axios from 'axios';
 
 const ItemListContainer = () => {
 
@@ -14,7 +16,7 @@ const ItemListContainer = () => {
 
     const [hayFiltros, setHayFiltros] = useState(false);
 
-    useEffect(
+/*     useEffect(
         () => {
             getProductos(id, nombre, fabrica, rubro, modificacion, marca, modelo).then(
                 productos => {
@@ -22,7 +24,31 @@ const ItemListContainer = () => {
                 }
             )
         }, [id, nombre, fabrica, rubro, modificacion, marca, modelo]
+    ) */
+    
+    useEffect( 
+        () => {
+        axios.get(
+            '/api/productos/', 
+            {
+                params: {
+                }
+            }
+        )
+        .then(
+            res => {
+                console.log(res.data);
+                setProductos(res.data);
+            }
+        )
+        .catch(
+            err => {
+                console.log(err);
+            }
+        )
+        }, [id, nombre, fabrica, rubro, modificacion, marca, modelo]
     )
+
 
     const aplicarFiltro = () => {
         let id = document.getElementById("filtro_codigo_prodcuto").value;
@@ -36,8 +62,8 @@ const ItemListContainer = () => {
         marca = marca === '' ? undefined : marca;
         modelo = modelo === '' ? undefined : modelo;
         setHayFiltros(true);
-        setProductos(filtrarProductosSiHayFiltros(id, nombre, fabrica, marca, modelo));
-        let productoFiltrado = filtrarProductosSiHayFiltros(id, nombre, fabrica, marca, modelo);
+        setProductos(filtrarProductosSiHayFiltros(productos, id, nombre, fabrica, marca, modelo));
+        let productoFiltrado = filtrarProductosSiHayFiltros(productos, id, nombre, fabrica, marca, modelo);
         if(productoFiltrado.length === 1) {
             document.getElementById("filtro_codigo_prodcuto").placeholder = productoFiltrado[0].id;
             document.getElementById("filtro_descripcion").placeholder = productoFiltrado[0].nombre;
@@ -65,7 +91,25 @@ const ItemListContainer = () => {
         document.getElementById("filtro_marca").placeholder = 'Ej: Peugeot';
         document.getElementById("filtro_modelo").placeholder = 'Ej: 306';
         setHayFiltros(false);
-        setProductos(filtrarProductosSiHayFiltros(undefined, undefined, undefined, undefined, undefined));
+        axios.get(
+            '/api/productos/', 
+            {
+                params: {
+                }
+            }
+        )
+        .then(
+            res => {
+                console.log(res.data);
+                setProductos(res.data);
+            }
+        )
+        .catch(
+            err => {
+                console.log(err);
+            }
+        )
+        /* setProductos(filtrarProductosSiHayFiltros(productos, undefined, undefined, undefined, undefined, undefined)); */
     }
 
     const handleKeyPress = (evento) => {

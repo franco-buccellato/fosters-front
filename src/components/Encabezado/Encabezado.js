@@ -1,5 +1,6 @@
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
+import NavDropdown from 'react-bootstrap/NavDropdown';
 import Navbar from 'react-bootstrap/Navbar';
 import CartWidget from '../CartWidget/CartWidget';
 import UserLogin from '../User/User';
@@ -95,11 +96,34 @@ function Encabezado({cantidadCarrito}) {
                         <LinkContainer to = '/'><Nav.Link>Nosotros</Nav.Link></LinkContainer>
                         <LinkContainer to = '/productos'><Nav.Link>Productos</Nav.Link></LinkContainer>
                         {
-                            (esAdministrador() || esClienteDirecto()) &&
+                            (esAdministrador()) &&
+                            
+                            <NavDropdown title="Gestion" id="basic-nav-dropdown">
+                                <LinkContainer to='usuario'>
+                                    <NavDropdown.Item>Alta Usuario</NavDropdown.Item>
+                                </LinkContainer>
+                                <LinkContainer to='usuarios'>
+                                    <NavDropdown.Item>Modificar Usuarios</NavDropdown.Item>
+                                </LinkContainer>
+                                <NavDropdown.Divider />
+                                <LinkContainer to='producto'>
+                                    <NavDropdown.Item>Alta Producto</NavDropdown.Item>
+                                </LinkContainer>
+                                <LinkContainer to='catalogo'>
+                                    <NavDropdown.Item>Modificar Productos</NavDropdown.Item>
+                                </LinkContainer>
+                                <NavDropdown.Divider />
+                                <LinkContainer to='aumento'>
+                                    <NavDropdown.Item>Aumentos</NavDropdown.Item>
+                                </LinkContainer>
+                            </NavDropdown>
+                        }
+                        {
+                            (esClienteDirecto() && !esAdministrador()) &&
                             <LinkContainer to = '/usuarios'><Nav.Link>Usuarios</Nav.Link></LinkContainer>
                         }
                         {
-                            (estaLogueado() && esClienteDirecto()) &&
+                            (estaLogueado() && esClienteDirecto() && !esAdministrador()) &&
                             <LinkContainer to = '/carrito'><Nav.Link><CartWidget inicial={cantidadCarrito}/></Nav.Link></LinkContainer>
                         }
                     </Nav>

@@ -1,26 +1,13 @@
-.container-users {
-    width: 100%;
-    justify-content: center;
-    align-items: center;
-    display: flex;
-    flex-direction: row;
-}
-
-
 .container-usuarios {
-    width: 100%;
+    width: 40%;
     margin: 20vh 30% 0 30%;
     margin-top: 20vh;
 }
 
 .container-tabla-usuarios {
-    display: flex;
-    flex-direction: column;
-    padding-top: 10vw;
-    width: 100%;
+    width: 40%;
+    margin: 20vh 30% 0 30%;
     margin-top: 10vh;
-    justify-content: center;
-    align-items: center;
 }
 
 
@@ -160,7 +147,6 @@
 
 .titulo-tabla {
     text-align: center;
-    width: 100%;
 }
 
 @media (max-width: 1600px) {

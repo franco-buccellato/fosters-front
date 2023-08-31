@@ -10,8 +10,11 @@ import LandingPage from './components/LandingPage/LandingPage';
 import CartListContainer from './components/CartListContainer/CartListContainer';
 import Login from './components/Login/Login';
 import Usuarios from './components/Usuarios/Usuarios';
+import Usuario from './components/Usuario/Usuario';
 import ItemListContainer from './components/ItemListContainer/ItemListContainer';
-
+import Catalogo from './components/Catalogo/Catalogo';
+import Producto from './components/Producto/Porducto';
+import Aumento from './components/Aumento/Aumento';
 import Encabezado from './components/Encabezado/Encabezado';
 
 function App() {
@@ -30,7 +33,11 @@ function App() {
 {          <Routes>
             <Route exact path = '/' element = {<LandingPage/>}/>
             <Route exact path = '/productos' element = {<div className='section-item-list-container' id='section-productos'><ItemListContainer/></div>}/>
+            <Route exact path = '/usuario' element = {<div className='section-usuarios' id='section-productos'><Usuario/></div>}/>
             <Route exact path = '/usuarios' element = {<div className='section-usuarios' id='section-productos'><Usuarios/></div>}/>
+            <Route exact path = '/producto' element = {<div className='section-usuarios' id='section-productos'><Producto/></div>}/>
+            <Route exact path = '/catalogo' element = {<div className='section-usuarios' id='section-productos'><Catalogo/></div>}/>
+            <Route exact path = '/aumento' element = {<div className='section-usuarios' id='section-productos'><Aumento/></div>}/>
             <Route exact path = '/carrito' element = {<CartListContainer/>}/>
             <Route exact path = '/login' element = {<Login/>}/>
             <Route exact path = '/detail/:productId' element = {<ItemDetailContainer/>}/>

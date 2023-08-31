@@ -1,26 +1,12 @@
-.container-users {
+.container-productos {
     width: 100%;
-    justify-content: center;
-    align-items: center;
-    display: flex;
-    flex-direction: row;
+    /* margin: 20vh 0 0 0; */
+    padding-bottom: 20vh;
 }
 
-
-.container-usuarios {
-    width: 100%;
-    margin: 20vh 30% 0 30%;
-    margin-top: 20vh;
-}
-
-.container-tabla-usuarios {
-    display: flex;
-    flex-direction: column;
-    padding-top: 10vw;
-    width: 100%;
-    margin-top: 10vh;
-    justify-content: center;
-    align-items: center;
+.container-tabla-productos {
+    width: 90%;
+    margin: 0 5% 0 5%;
 }
 
 
@@ -158,9 +144,11 @@
     width: 80%;
 }
 
-.titulo-tabla {
+.titulo-tabla-productos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     text-align: center;
-    width: 100%;
 }
 
 @media (max-width: 1600px) {
